@@ -1,0 +1,12 @@
+Carro autônomo faz manobras em alta velocidade e com precisão
+Experimento de derrapagens em um circuito pode contribuir para  melhor sistemas de segurança no veículos do futuro
+
+Um carro modelo DeLorean de 1981 foi equipado com um sistema de direção autônoma por pesquisadores da Universidade de Stanford e programado executar derrapagens em alta velocidade entre cones.
+
+Os controles mecânicos do carro, como direção e frenagem foram substituídos por sistemas eletrônicos. Algumas peças também precisaram ser substituídas para garantir mais precisão e estabilidade durante as manobras
+
+Apesar de parecer apenas algo divertido, a intenção dos engenheiros era treinar o algoritmo para que os futuros carros autônomos tenham um tempo de reação cada vez menor em situações de perigo.
+
+"Estamos tentando desenvolver veículos automatizados que possam lidar com manobras de emergência ou superfícies escorregadias como gelo ou neve", disse o engenheiro mecânico Chris Gerdes. “Gostaríamos de desenvolver veículos automatizados que possam usar todo o atrito entre o pneu e a estrada para tirar o carro do perigo. Queremos que o carro seja capaz de evitar qualquer acidente evitável dentro das leis da física. ”
+
+A equipe de engenheiros da universidade norte-americana filmou o experimento. Dois engenheiros acompanharam o trajeto de dentro do veículo para agir em caso de emergência, mas não foi necessário. No fim do vídeo, os dois comemoram com as mãos para fora da janela enquanto o DeLorena executa as últimas derrapadas.

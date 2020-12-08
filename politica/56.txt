@@ -1,0 +1,55 @@
+Facebook e Twitter usam exemplo dos EUA e preveem avisos para fake news em eleição no Brasil
+
+As duas redes sociais têm abordagens distintas, mas, no geral, devem aplicar as mesmas regras em posts de candidatos brasileiros ou de apoiadores que tentem minar o processo cívico 
+
+Antes de discursar na TV dos EUA por 15 minutos sobre fraude eleitoral sem apresentar evidências, o presidente Donald Trump já acumulava uma série de publicações contestadas ou rotuladas como duvidosas no Twitter. No Facebook, uma página com 365 mil estadunidenses apoiadores do republicano foi derrubada por espalhar mentiras.
+
+Todas as publicações tinham em comum o objetivo de difundir desconfiança no processo eleitoral pelo correio à medida em que a derrota para o democrata Joe Biden ficava mais evidente.
+
+As duas redes sociais têm abordagens distintas, mas, no geral, devem aplicar as mesmas regras em posts de candidatos brasileiros ou de apoiadores que tentem minar o processo cívico ou incitem eleitores a interferir nos locais de votação das eleições municipais deste domingo (15).
+
+O Facebook diz que vai operar um centro de operações dedicado apenas às eleições nos dias anteriores ao pleito brasileiro.
+
+O objetivo é acelerar o tempo de resposta a conteúdos que possam representar ameaça. O mesmo centro focará atenção em conteúdos do Instagram e do WhatsApp, que pertencem ao grupo econômico Facebook.
+
+No Brasil, a empresa trabalha em parceria com agências de checagens de fatos e afirma que já removeu conteúdos que desestimulam os eleitores a votar - mas não abre quantos banimentos foram feitos.
+
+Segundo a empresa, especialistas de diversas equipes nacionais e do exterior estarão reunidos online para acompanhar em tempo real potenciais violações de políticas das três plataformas.
+
+No WhatsApp, é preciso lembrar que mensagens não serão rotuladas como potencialmente falsas porque o sistema usa criptografia de ponta a ponta e o aplicativo não é considerado pela empresa uma rede social.
+
+O Twitter, que ofereceu contexto de fontes oficiais e marcou 13 publicações de Trump como "contestáveis" ou com possíveis "informações incorretas" nos últimos dois dias, diz que alterou recentemente sua política de integridade cívica e que ela é global.
+
+A rede pode colocar avisos ou "remover informações falsas ou enganosas que tenham como intuito minar a confiança do público em uma eleição ou outro processo cívico" nas eleições brasileiras.
+
+Tuítes com veracidade contestada ficam mais restritos à interação com o público. Nesses casos, as pessoas precisam clicar em um alerta para visualizar a publicação e só podem retuitá-la com comentário.
+
+Curtidas, retuítes simples e respostas ficam desabilitados, e os posts enganosos passam a ter alcance reduzido, ou seja, o algoritmo da plataforma faz com a frequência de sua visualização diminua drasticamente para as pessoas.
+
+Foi o que aconteceu com uma enxurrada de tuítes de Trump na terça-feira (3) da semana passada.
+
+Em um deles, o republicano afirma que "facilmente ganharia a presidência dos Estados Unidos com votos legais"; em outro vídeo, atualiza os estadunidenses "sobre seu esforço para proteger a integridade da importante eleição de 2020". "Se você contar os votos legais, eu facilmente ganho", diz.
+
+Em publicações enganosas do tipo, o Twitter exibe a seguinte mensagem: "alguns ou todos os conteúdos compartilhados neste tuíte são contestáveis e podem ter informações incorretas sobre como participar de uma eleição ou de outro processo cívico".
+
+A plataforma não remove o conteúdo de autoridades por julgar que é de interesse público que fiquem visíveis, mas limita a capacidade de ela ser visualizada e utilizada por usuários.
+
+Já o Facebook anexou uma explicação em todas as publicações de Trump e de Biden para dar mais contexto ao leitor. Ao clicar no alerta, o usuário é direcionado a uma página com o status da votação e com notícias e análises de veículos jornalísticos.
+
+Em um vídeo da Fox News em que Trump afirma "eles não querem que os EUA tenham observadores", o Facebook incluiu um alerta que replicou em alguns outros conteúdos do perfil do presidente: "como esperado, os resultados das eleições demoraram mais neste ano. Milhões de pessoas nos Estados Unidos votaram pelo correio, e as cédulas pelo correio demoram mais para contar."
+
+No Brasil, a empresa afirma que não fará o mesmo nos posts de todos os candidatos, apenas rotulando os que tiverem conteúdo falso em seus perfis. Um filtro cinza será colocado em cima da publicação com o aviso de que o conteúdo não é verdadeiro e que foi checado por verificadores independentes.
+
+Para tentar conter a desinformação em 2020, todas as redes sociais firmaram uma parceria com TSE, que prevê, basicamente, um canal direto de informações para lidar com o tema e a priorização de conteúdo oficiais do tribunal sobre eleições.
+
+O WhatsApp passou a enviar, por meio de relatórios preenchidos por usuários, potenciais casos de disparo em massa ao tribunal. Das 1.020 acusações nestas eleições, o aplicativo diz que removeu 256 contas que praticavam disparo.
+
+Já o YouTube afirma que pode retirar conteúdos "que tenham o objetivo de enganar as pessoas sobre eleições ou vídeos contendo manipulação técnica e alterações que confundam o usuário (além de trechos exibidos fora do contexto), capazes de causar prejuízos evidentes".
+
+A plataforma de vídeos do Google também pode eliminar conteúdos que contenham informações hackeadas que possam interferir no processo democrático. "Vídeos com informações hackeadas sobre um candidato político, compartilhados com o objetivo de interferir na eleição", exemplifica sua política.
+
+As diretrizes das plataformas sobre conteúdo político têm foco no rito eleitoral, ou seja, elas devem derrubar apenas posts com notícias falsas sobre urnas, locais e data de votação e procedimentos sanitários relativos à Covid-19. As empresas incentivam que usuários ajudem a denunciar conteúdos.
+
+Como mostrou estudo recém-publicado do Intervozes, as principais plataformas não têm uma política estruturada dedicada especificamente à desinformação. O tema aparece, de modo geral, de maneira esparsa em outras diretrizes de uso, como as que banem discurso de ódio, por exemplo.
+
+Publicações gerais que infringirem outras políticas da plataforma, como as que proíbem incitação à violência, assédio ou crimes de racismo, por exemplo, e forem denunciadas por usuários, também podem ser bloqueadas ou terem acesso reduzido, como ocorre em qualquer período.

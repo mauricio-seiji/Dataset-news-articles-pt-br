@@ -1,0 +1,68 @@
+Covid-19: a estudante de 14 anos premiada por descobrir molécula que pode ajudar a combater coronavírus
+
+Ela tem apenas 14 anos e já trabalha na corrida para encontrar uma cura para a covid-19.
+
+Anika Chebrolu, estudante do ensino médio em Frisco, no Texas, descobriu uma molécula que poderia se ligar ao novo coronavírus e inibir sua capacidade de infectar pessoas.
+
+A descoberta científica rendeu à jovem o título de "melhor jovem cientista dos Estados Unidos" na competição Young Scientist Challenge 2020, o que lhe rendeu um prêmio de US$ 25 mil (cerca de R$ 142 mil) concedido pela multinacional 3M.
+
+O evento anual de prestígio nacional é indicado por várias universidades para estudantes de 10 a 14 anos (e potenciais cientistas) apresentarem um pequeno vídeo explicando uma solução para um problema cotidiano.
+
+Proteína-chave
+O Sars-CoV-2, vírus que causa a doença covid-19, possui uma espécie de coroa que o rodeia. É daí que vem o nome coronavírus.
+
+Nesta coroa há uma proteína em forma de espinho, a proteína S, que se une aos receptores de nossas células para infectá-las.
+
+Por isso, muitos laboratórios que trabalham em uma vacina contra a covid-19 escolheram atacar essa proteína com o objetivo de impedir que o vírus penetre em nossas células.
+
+A pesquisa de Anika Chebrolu também se baseou nessa proteína-chave do vírus.
+
+"Descobri uma molécula que pode se juntar à proteína S do vírus e potencialmente mudar sua forma e sua função", explica a jovem em entrevista à BBC News Mundo (serviço em espanhol da BBC).
+
+Ela fez isso examinando milhões de pequenas moléculas em busca de propriedades como as de um remédio de absorção, distribuição, metabolismo e excreção (ADME).
+
+Após essa análise, Chebrolu selecionou a molécula com melhor atividade farmacológica e biológica frente à proteína S do vírus Sars-CoV-2, que pode ser transformada em uma droga potencial para um tratamento eficaz contra a doença.
+
+Estudo prévio
+
+Chebrolu começou sua pesquisa na escola Nelson, em Frisco, quando ainda não havia notícias sobre a nova pandemia de coronavírus.
+
+"Há alguns anos, investiguei a pandemia de gripe espanhola de 1918 para um projeto escolar e fiquei fascinada por vírus e pela descoberta de medicamentos", disse.
+
+Ao fazer sua pesquisa, descobriu a metodologia in silico (em ou através de simulação computacional).
+
+"Fiquei surpresa que pudéssemos usar métodos computacionais para identificar e desenvolver moléculas potenciais semelhantes a remédios para combater doenças."
+
+Ela diz que estava usando o mesmo método do ano passado para identificar um composto importante que poderia se ligar à proteína hemaglutinina do vírus influenza quando a pandemia de covid-19 surgiu.
+
+"Depois de pesquisar pandemias, vírus e drogas por tanto tempo, era uma loucura pensar que estávamos realmente passando por uma pandemia!"
+
+Devido à gravidade da pandemia e ao forte impacto que ela teve no mundo em menos de um ano, Chebrolu descreve que, com a ajuda de seu mentor Mahfuza Ali, um cientista da 3M, ela mudou a direção de seu projeto inicial e se voltou para a proteína S do vírus Sars-CoV-2.
+
+Até 26 de outubro, a covid-19 tirou a vida de mais de 1,1 milhão de pessoas em todo o mundo desde que os primeiros casos começaram a ser relatados em dezembro de 2019, na cidade chinesa de Wuhan.
+
+Os Estados Unidos são o país com mais mortes, com mais de 225 mil, de acordo com dados da universidade americana Johns Hopkins.
+
+Mais e mais estudos
+No campo científico, os achados de Chebrolu foram celebrados, mas cientistas afirmam que ainda são necessários mais estudos para saber se essa molécula é realmente eficaz para uma cura contra a covid-19.
+
+"Acho maravilhoso que Anika Chebrolu tenha feito essa análise, e seu trabalho é obviamente impressionante e sofisticado para seu nível de formação. Sem dúvida, ela tem potencial para ser uma cientista excepcional", disse Angela Rasmussen, virologista da Universidade Columbia, em Nova York.
+
+"No entanto, é importante ressaltar que, embora essas estratégias sejam boas para identificar compostos com potencial terapêutico, não há dados experimentais para sustentar que a molécula identificada realmente afeta a entrada ou a replicação viral, ou que se una à proteína S em condições reais", diz a especialista à BBC News Mundo.
+
+"São necessários estudos de laboratório para entender melhor o potencial dessa molécula como terapia antiviral", acrescenta Rasmussen.
+
+Para especialistas consultados pela reportagem, mais testes laboratoriais podem determinar se essa molécula pode se ligar de forma eficaz à proteína S do vírus.
+
+Se isso for comprovado com análises in vitro, geralmente em tecidos, órgãos ou células isolados, e posteriormente in vivo, o que significa testes em organismos vivos, essa molécula poderia prevenir a primeira etapa da infecção do vírus em um organismo.
+
+Planos para o futuro
+Chebrolu afirma que tem planos concretos para investir o dinheiro que ganhou de prêmio como melhor cientista jovem dos EUA.
+
+"Planejo usar os US$ 25 mil na continuar minha pesquisa e financiar minha organização sem fins lucrativos, AcademyAid, que oferece material e equipamento a crianças que necessitam de ajuda para seguir nas carreiras que desejam."
+
+Ela também planeja guardar parte do prêmio para pagar seus estudos na universidade.
+
+Perguntada sobre o que diria, a partir de sua experiência, a outros jovens que podem estar interessados na ciência, ela recomendou não deixar de questionar.
+
+"Lembre-se sempre de não deixar de fazer perguntar e de ter confiança em si mesmo. Certifique-se de aproveitar qualquer oportunidade com suas melhores habilidades, pois você nunca sabe onde pode parar."

@@ -1,0 +1,41 @@
+Mega-robôs russos: avanço tecnológico ou ‘Frankenstein’ de sucata?
+
+No meio científico, a Rússia é conhecida por se vangloriar de seus robôs – ao mesmo tempo em que tem uma relação ambivalente com eles.
+
+O país enfrentou uma série de reveses públicos com seus artefatos tecnológicos, por exemplo com o robô Fedor, lançado ao espaço a bordo da aeronave Soyuz em agosto com muita publicidade e empolgação por parte da agência espacial russa Roscosmos.
+
+Fedor de fato fez história: foi o primeiro robô a ser enviado ao espaço pela Rússia, mas a missão que começou bem enfrentou um obstáculo crucial na reta final. A tentativa de acoplar o robô à Estação Espacial Internacional (ISS, em inglês) teve de ser abortada por causa de um problema técnico.
+
+Fazendo justiça a Fedor, ele não foi o culpado pelo imprevisto. Apesar de a imprensa estatal russa tê-lo apresentado como uma revolução tecnológica – e de outros relatos incorretos terem apontado o robô como o responsável por pilotar a Soyuz –, o artefato fazia poucas coisas além de falar.
+
+O projetista do Fedor, Yevgeny Dudorov, explica que o robô não foi sequer idealizado para trabalhar no ambiente espacial. À imprensa especializada, Dudorov afirmou que suas pernas longas (Fedor tem 1,8 metro) não tinham utilidade em missões fora da Terra.
+
+"Ele foi inventado, na verdade, para atuar na Terra, e como não é de forma alguma integrado à Estação Espacial Internacional, introduzimos uma série de restrições", diz Dudorov. "No que diz respeito à inteligência artificial, só sobrou a interação verbal (com o robô). Os cosmonautas conseguem fazer perguntas, e o robô as responde. Perguntas do tipo 'como você está? como se sente? O que você está fazendo aqui? Quem são seus inventores?'."
+
+Os criadores de Fedor afirmam que ele não deve viajar mais ao espaço.
+'Cem quilos de lixo de aço'
+
+Antes de seu voo espacial, o Fedor estava dedicado a impressionar observadores com suas habilidades. A TV estatal mostrava-o dirigindo um carro, disparando armas e fazendo flexões, mas ele também foi alvo de críticas.
+
+"Esse robô Fedor resume o regime de (Vladimir) Putin", afirmou pelo Twitter o líder oposicionista Alexei Navalny. "Os idiotas de relações públicas da Roscosmos tiveram essa ideia, e engenheiros foram forçados a enviar a órbita cem quilos de lixo de aço sem utilidade."
+
+De fato há motivo para ceticismo, uma vez que a imprensa estata russa costuma exagerar os feitos científicos do país.
+Boris e Igoryok
+
+No ano passado, um robô chamado Boris apareceu na rede nacional de TV. Na ocasião, o robô anunciou que era bom em matemática, que queria aprender a compor música e que era capaz de dançar. O único problema é que Boris não parecia ter sensores externos e fazia movimentos estranhos e desnecessários enquanto dançava.
+
+O robô Igoryok jamais foi visto fazendo qualquer coisa
+
+Depois veio à tona que Boris não era um artefato de inteligência artificial, mas sim um homem vestindo uma roupa de robô. Era, na verdade, uma fantasia de robô chamada Aloysha, produzida pela empresa Show Robots.
+
+Antes de Boris, a TV russa também divulgava relatos positivos a respeito de outro robô, um grande artefato de aço chamado Igoryok, mas que jamais foi visto em movimento – ou fazendo qualquer outra coisa.
+
+Para além das notícias intrigantes, há uma outra história em curso. Susanne Bieller, secretária-geral da Federação Internacional de Robótica, diz que a Rússia tem muitos motivos para otimismo nesse campo, mas também muito trabalho a fazer se quiser comercializar sua própria tecnologia robótica.
+
+Fedor não vai mais viajar ao espaço
+
+"Analisando o mercado de robótica, a Rússia ainda não é um grande agente consumidor. É apenas o 27º país do mundo nisso. É um ator importante, mas ainda tem muito progresso pela frente para colocar suas pesquisas no mercado", diz Bieller.
+
+É um problema admitido por Alisa Koniukhovskaya, russa que integra a Federação Internacional de Robótica. Ela afirma que especialistas locais precisam mostrar aos russos um lado menos glamouroso e mais prático da robótica.
+
+"Às vezes as pessoas pensam em robôs como algo que eles viram nos filmes, mas precisamos que as pessoas conheçam as verdadeiras oportunidades que os robôs oferecem na vida e em projetos de negócios", avalia. "O crucial é criar demanda dentro da Rússia e propiciar boas condições para ir ao exterior e exportar robôs."

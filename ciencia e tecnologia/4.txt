@@ -1,0 +1,21 @@
+Celulares Android antigos não poderão acessar sites por falta de segurança
+
+A iniciativa Let's Encrypt advertiu que versões anteriores à 7.1.1 não terão seu certificado de segurança em 2021
+
+Você pode ter que atualizar seu telefone Android em pouco tempo se quiser visitar grandes partes da web segura. De acordo com o site Android Police, a iniciativa “Let’s Encrypt” está advertindo que os telefones rodando versões do Android anteriores à 7.1.1 Nougat não terão a confiança oferecida pelo certificado raiz a partir de 2021, deixando-os de fora de diversos sites seguros. 
+
+A organização interromperá a assinatura cruzada padrão para o certificado que habilita essa funcionalidade em 11 de janeiro de 2021 e abandonará totalmente a parceria de assinatura cruzada em 1º de setembro daquele mesmo ano.
+
+Uma solução alternativa parcial está disponível instalando o Firefox (a Mozilla é parceira do Let's Encrypt) e usando seu próprio armazenamento de certificados, mas isso não ajudará com clientes rivais ou funcionalidades que vão além dos navegadores.
+ 
+É totalmente comum que os desenvolvedores abandonem o suporte para sistemas operacionais mais antigos. No entanto, isso pode ser um ponto sensível, dadas as políticas de atualização do Android. 
+
+Let's Encrypt observou que cerca de 33,8 por cento dos usuários do Android no Google Play executam uma versão anterior à 7.1, e alguns fornecedores de hardware cortaram o suporte antes do tempo. 
+
+Não era incomum para os fornecedores de Android oferecerem relativamente poucas atualizações nos anos anteriores, e alguns dispositivos (normalmente telefones econômicos) até mesmo ficavam presos em seu sistema operacional. 
+
+Você pode ter comprado um telefone em 2016 ou mesmo em 2017 que poderia perder abruptamente o acesso a alguns sites, pelo menos sem soluções alternativas.
+
+Ao menos a situação está melhorando. A Samsung e outros fabricantes de Android estão se comprometendo com três anos de atualizações do sistema operacional. Isso não mudará a realidade de muitas pessoas com hardware mais antigo, e pode haver poucos recursos se você não puder ou não quiser usar o Firefox. 
+
+Mesmo que muitos outros sites continuem funcionando, o suporte inconsistente pode ser um incômodo no mínimo e um grande obstáculo na pior das hipóteses.

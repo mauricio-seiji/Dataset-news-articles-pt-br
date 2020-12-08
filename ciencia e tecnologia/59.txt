@@ -1,0 +1,14 @@
+Novo radar com IA permite que carros detectem objetos nas curvas
+
+Um novo tipo de radar desenvolvido pela Universidade de Princeton, nos Estados Unidos, permite que os carros detectem perigos escondidos nas curvas, ajudando a evitar acidentes e atropelamentos. A novidade, que pode ser instalada em qualquer veículo atual, funciona em conjunto com um sistema de inteligência artificial.
+
+Para criar o sensor, os engenheiros de Princeton adaptaram um radar Doppler, usado para detectar carros em alta velocidade, para “ver” objetos nas curvas. As ondas de rádio emitidas por ele chegam aonde o olho humano, os sensores de câmera e a tecnologia LIDAR não alcançam, atingindo objetos em uma esquina.
+
+Os detectores instalados no veículo recebem o sinal de volta e usam um algoritmo para interpretar se os objetos estão em movimento ou estacionários. Se instalado em um carro autônomo, por exemplo, ele pode alertar sobre a aproximação de um cruzamento perigoso. O vídeo abaixo mostra a tecnologia em funcionamento:
+
+Em sua primeira versão, o sistema automatizado só consegue detectar pedestres e ciclistas. No entanto, os responsáveis pelo projeto afirmaram que ele também pode ser ajustado para detectar carros em movimento e outros objetos ocultos em uma curva, além de medir a sua velocidade e a direção.
+
+Mercedes participa dos testes
+De acordo com o The Next Web, a Mercedes-Benz pode ser a primeira montadora a utilizar o radar para detectar objetos nas curvas em seus carros. Além de ter fornecido os veículos para testar e desenvolver a tecnologia, a montadora alemã teve um de seus engenheiros participando do projeto. Ela também possui um longo histórico de uso de tecnologias futuristas em seus automóveis.
+
+Mas a ideia dos pesquisadores é disponibilizar o sistema para uso em carros de qualquer fabricante. “Os sensores de radar também são relativamente baratos, especialmente se comparados aos sensores LIDAR, e escaláveis para produção em massa", comentou o professor de Ciência da Computação de Princeton Felix Heide, um dos criadores da tecnologia.

@@ -1,0 +1,47 @@
+A tecnologia que permite carregar seu celular em 5 minutos
+
+ O ano de 2020 já promete trazer novidades que podem facilitar — e muito — o uso de tecnologia móvel, como celulares.
+
+Uma startup israelense, a StoreDot, do empresário Doron Myersdorf, planeja desenvolver baterias capazes de recarregar um smartphone em 60 segundos ou um veículo elétrico em 5 minutos. No caso do carro, a carga seria suficiente para uma viagem de aproximadamente 500 km.
+
+Para isso, a empresa obteve um financiamento no valor de US$ 130 milhões (cerca de R$ 531 milhões) e o apoio de uma das maiores empresas de petróleo do mundo, a BP. Não à toa, o canal Bloomberg colocou a StoreDot em uma lista de startups a se prestar atenção no ano que começa.
+
+No entanto, por ora a empresa prevê lançar no segundo semestre de 2020 carregadores capazes de carregar totalmente a bateria de um celular em cinco minutos.
+
+Sua tecnologia é baseada em uma combinação de nanotecnologias e uma nova geração de compostos orgânicos que armazenam energia com mais eficiência e segurança do que os sistemas atuais.
+
+As baterias StoreDot usam lítio, mas substituem o grafite usado pelos fabricantes de baterias por uma mistura de metaloides, ou seja, substâncias com propriedades intermediárias entre metais e não metais.
+
+Esses metaloides incluem silício e compostos orgânicos sintetizados em seus laboratórios.
+
+Carregar um carro elétrico pode levar de 45 minutos a quatro horas
+Barreiras para carros elétricos
+
+Nos últimos anos, a empresa registrou 31 patentes.
+
+Mas não apenas os smartphones se beneficiarão dessa inovação. Também a indústria de veículos elétricos.
+
+As principais barreiras na compra de um carro com baterias elétricas são que seu alcance em quilômetros ainda é limitado e, dependendo do modelo, o reabastecimento pode levar entre 45 minutos e 4 horas.
+
+De acordo com a Bloomberg, os veículos elétricos serão responsáveis ​​por mais da metade de todas as vendas de carros novos em 2040, à medida que os preços começarem a cair e a vida útil da bateria seja estendida.
+
+Os fabricantes têm tentado aumentar a "densidade" química da bateria para que um carro elétrico possa viajar ainda mais com uma única carga.
+
+Os mais recentes veículos elétricos de ponta da Tesla, Chevrolet e outros fabricantes, por exemplo, permitem viagens de quase 500 quilômetros em ótimas condições. Mas recarregar ainda é um processo lento.
+
+É nesse ponto que a StoreDot está concentrando seus esforços.
+
+Os laboratórios StoreDot ficam em Israel
+Uma realidade
+
+Antes de se lançar no complexo mundo dos veículos elétricos, no entanto, a empresa StoreDot começará a vender baterias para motocicletas. A companhia já fez inúmeros testes: o novo equipamento oferece um alcance de 70 quilômetros.
+
+A razão para o foco inicial em motos ocorreu porque a bateria do carro precisará de 10 vezes mais células de energia do que a bateria de uma moto tipo scooter. Além disso, a StoreDot ainda precisa encontrar uma maneira ainda mais eficiente de resfriar o equipamento enquanto ele estiver em uso, disse Myersdorf.
+
+O aquecimento de baterias elétricas, que levou à explosão de dispositivos Samsung Galaxy ou de motores Tesla, é outro problema que a indústria deve resolver.
+
+Por enquanto, a Meyersdorf também garantiu ao site da ISRAEL21c que suas baterias "usam metade do cobalto" em comparação com outras ferramentas disponíveis no momento.
+
+Isso é importante, disse o CEO, porque 60% do cobalto vêm de minas localizadas na República Democrática do Congo. Esses locais estão na mira de organizações internacionais que combatem a exploração do trabalho infantil.
+
+"Essa tecnologia exclusiva tem o potencial de se tornar o mais recente padrão de carregamento rápido em setores como dispositivos móveis ou veículos elétricos, mas também ferramentas elétricas, brinquedos elétricos, eletrodomésticos e outros", diz a empresa em seu site.

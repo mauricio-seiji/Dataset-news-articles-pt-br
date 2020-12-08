@@ -1,0 +1,44 @@
+Por que Microsoft deixou 855 computadores no fundo do oceano por dois anos
+
+Dois anos atrás, a Microsoft colocou um centro de dados no fundo do mar na costa de Orkney, um arquipélago no norte da Escócia, em um experimento radical.
+
+Esse centro de dados agora foi recuperado do fundo do oceano, e os pesquisadores da Microsoft estão avaliando agora como tem sido seu desempenho durante esse tempo e o que podem aprender com ele sobre eficiência energética.
+
+A primeira conclusão deles é que o cilindro forrado de servidores teve uma taxa de falha menor do que um centro de dados convencional.
+
+Quando o contêiner foi retirado do fundo do mar, a cerca de 800 metros da costa, após ser colocado lá em maio de 2018, apenas oito dos 855 servidores a bordo falharam.
+
+Isso é um bom índice quando comparado com um centro de dados convencional.
+
+"Nossa taxa de falhas dentro da água foi um oitavo do que temos em terra", disse Ben Cutler, que liderou o que a Microsoft chama de Projeto Natick.
+
+A equipe levantou a hipótese de que o desempenho melhor pode estar ligada ao fato de que não havia humanos a bordo e que nitrogênio, em vez de oxigênio, foi bombeado para a cápsula.
+
+"Achamos que tem a ver com essa atmosfera de nitrogênio que reduz a corrosão e é fria, e sem as pessoas mexendo em tudo", diz Cutler.
+
+Orkney foi escolhida para o teste pela Microsoft em parte porque era um centro de pesquisa de energia renovável em um lugar de clima temperado — um pouco frio até. A hipótese central é de que o custo do resfriamento dos computadores é menor quando estão debaixo d'água.
+
+O cilindro branco emergiu das águas frias com uma camada de algas, cracas e anêmonas após um dia de operação de retirada.
+
+Porém, por dentro, o centro de dados estava funcionando bem — e agora está sendo examinado de perto pelos pesquisadores.
+
+Na medida em que mais e mais dados nossos são armazenados em "nuvem" hoje em dia, existe uma preocupação crescente com o vasto consumo de energia por centros de dados.
+
+Mais ecológico
+O Projeto Natick tratava em parte de descobrir se os clusters de pequenos centros de dados subaquáticos para uso de curto prazo poderiam ser uma proposta comercial, mas também uma tentativa de aprender lições mais amplas sobre eficiência energética na computação em nuvem.
+
+Toda a eletricidade de Orkney vem de energia eólica e solar, mas não houve problemas em manter o centro de dados subaquático alimentado com energia.
+
+"Conseguimos funcionar muito bem em uma rede que a maioria dos centros de dados baseados em terra considera não confiável", disse Spencer Fowers, um dos membros da equipe técnica do Projeto Natick.
+
+"Estamos com esperança de poder olhar para nossas descobertas e dizermos que talvez não precisemos ter tanta infraestrutura focada em energia e confiabilidade."
+
+Os centros de dados subaquáticos podem parecer uma ideia estranha. Mas David Ross, que é consultor do setor há muitos anos, diz que o projeto tem um grande potencial.
+
+Ele acredita que eles podem ser uma opção atraente para organizações que enfrentarem um desastre natural ou um ataque terrorista: "Você poderia efetivamente mover algo para um local mais seguro sem ter todos os enormes custos de infraestrutura de construir um edifício. É flexível e econômico."
+
+A Microsoft é cautelosa ao dizer quando um centro de dados subaquático poderá ser um produto comercial, mas está confiante de que a ideia tem valor.
+
+"Achamos que já passamos do ponto de experimento científico", diz Ben Cutler. "Agora é simplesmente uma questão de o que queremos projetar — seria algo pequeno ou grande?"
+
+O experimento em Orkney terminou. Mas a esperança é que ele ajude a encontrar uma forma mais ecológica de armazenamento de dados tanto em terra quanto debaixo d'água.

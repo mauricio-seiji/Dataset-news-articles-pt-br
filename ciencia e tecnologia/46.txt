@@ -1,0 +1,52 @@
+Como a manobra pioneira que uniu 2 satélites em órbita pode transformar as missões espaciais
+
+Um satélite comercial foi acoplado a um outro que estava em órbita, em uma demonstração do que muitos acreditam que será um nova e próspera fronteira na indústria espacial.
+
+Uma das plataformas era um antigo satélite de comunicações quase sem combustível. A outra é uma unidade auxiliar, que agora se encarregará de todas as funções de manobra do primeiro.
+
+Isso permitirá a prorrogação por mais cinco anos da vida útil do satélite (Intelsat-901), que há 19 anos transmite sinais de televisão.
+
+O evento foi descrito como "um grande sucesso" pelas empresas envolvidas.
+
+A Northrop Grumman, responsável pelo satélite que foi acoplado, o Missão Veículo de Extensão 1 (MEV-1, por suas siglas em inglês), afirmou que se trata da primeira vez que dois satélites comerciais se unem dessa maneira a uma altitude de mais de 36 mil quilômetros.
+
+O MEV-1 agora empurrará o IS-901 até uma posição equatorial a 27,5 graus oeste, para que ele possa reativar as tarefas de telecomunicação entre o fim de março e o início de abril deste ano.
+
+Zona sem riscos
+Empresas de satélite dizem há algum tempo sobre a possibilidade de fazer serviços em órbita, como recarregar o combustível de satélites mais antigos ou retirar peças que não funcionam mais.
+
+Projeção artística de órbita de satélites
+
+Há muitos anos, é estudada a possibilidade de oferecer serviços em órbita, mas esta é a primeira vez em que uma tentativa dá resultados
+
+Mas, de acordo com os envolvidos no lançamento do Missão Veículo de Extensão 1, esta é a primeira iniciativa comercial a oferecer resultados.
+
+O acoplamento dos satélites ocorreu na terça-feira (25/02), às 7h15, a cerca de 300 quilômetros acima do arco geossíncrono, de onde a maioria dos satélites de comunicações transmite seus dados.
+
+No momento da junção dos dois satélites, os responsáveis tomaram cuidado para que nenhuma outra nave espacial estivesse nas proximidades, para que não fosse comprometida caso algo fugisse do controle.
+
+O veículo acoplado controlará todos os movimentos do satélite Intelsat-901, incluindo aqueles que o equipamento deve fazer para manter a telecomunicação com pontos da superfície terrestre.
+
+Quando a missão estendida chegar ao fim, o MEV-1 levará o Intelsat-901 a uma órbita "cemitério" e logo se dirigirá para outro satélite que esteja ficando sem combustível e que necessite desse mesmo tipo de assistência.
+
+Expansão
+A Northrop Grumman, que opera esse novo serviço por meio da subsidiária SpaceLogistics LLC, afirmou que planeja expandir esse serviço básico oferecido por meio do MEV-1 para poder incluir veículos capazes de fazer reparos e montagens em órbita.
+
+A empresa já está trabalhando em sistemas que incluirão não apenas sondas de acoplamento simples, mas também braços robóticos para pegar satélites.
+
+
+Outra opção que está sendo desenvolvida são as cápsulas de combustível, que poderão ser conectadas aos satélites que precisam de abastecimento.
+
+Tom Wilson, vice-presidente de sistemas espaciais de Northrop Grumman e presidente da SpaceLogistics LLC, disse que esses serviços podem ser úteis para a Nasa, principalmente quando astronautas são enviados para longe da Terra.
+
+Segundo Wilson, em suas explorações do sistema solar a Nasa necessita "realizar todo tipo de missões robóticas autônomas", como "unir veículos, realizar operações de aproximação, fabricar peças ou componentes que não sabia que necessitaria".
+
+"Toda a tecnologia nos leva a esse tipo de veículos e serviços", disse Wilson.
+
+Em um ano, a companhia deve lançar um segundo MEV. A missão deverá dar apoio a outro satélite Intelsat.
+
+Stephen Spengler, representante da Intelsat, disse que sua empresa sempre estimulou o desenvolvimento do conceito de "serviços em órbita". Ele citou a missão do ônibus espacial que, em 1992, resgatou o Intelsat-603, que havia encalhado na parte baixa da órbita terrestre.
+
+"Vamos além dos limites do que é possível e transformamos essas possibilidades em realidade. É por isso que somos defensores fervorosos da manutenção feita em órbita há muitos anos", declarou.
+
+"Em termos econômicos, funciona para a gente e faz muito sentido. Nos permite expandir as receitas e adiar as despesas de capital um pouco mais."

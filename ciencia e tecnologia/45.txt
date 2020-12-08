@@ -1,0 +1,16 @@
+IA descobre 50 novos exoplanetas entre falsos positivos
+
+Usando inteligência artificial para vasculhar os dados coletados pelos telescópios espaciais Kepler e Transiting Exoplanet Survey Satellite (TESS), pesquisadores da Universidade de Warwick descobriram meia centena de exoplanetas escondidos entre os casos classificados como falsos positivos.
+
+Um das maneiras mais usadas para se detectar exoplanetas em astronomia é no chamado método de trânsito: basicamente, a luz captada de uma estrela é medida em busca do decaimento temporário de seu brilho. Astrônomos procuram, entre os dados de telescópios, sinais que correspondam à passagem de um planeta em frente ao seu sol. Muitas vezes, esse processo gera falsos positivos causados por um sistema com duas estrelas, pela interferência de outros objetos celestes ou mesmo por erros na câmera do aparelho.
+
+O que os pesquisadores dos departamentos de Física e de Ciência da Computação e do Alan Turing Institute fizeram foi treinar um algoritmo para distinguir sinais de constatação para exoplanetas reais usando duas grandes amostras de planetas confirmados e de falsos positivos do observatório espacial Kepler, já aposentado pela NASA. Depois, o algoritmo peneirou as informações dos bancos de dados acumulados das agências espaciais.
+
+Menos de 1%
+Verificando os milhares de candidatos a exoplanetas, a equipe de cientistas conseguiu reunir 50 novos planetas confirmados e validados via aprendizado de máquina. Entre eles estão desde corpos do tamanho de Netuno a mundos menores que a Terra, com órbitas de 200 dias a apenas 1 dia.
+
+Usar IA para procurar exoplanetas não é um feito inédito; para validar a descoberta, sim.
+
+O planeta Kepler-1649c foi originalmente classificado por um algoritmo como um falso positivo.
+
+"Em vez de apontarmos quais são os candidatos mais prováveis de serem planetas, buscamos a probabilidade estatística precisa. Onde houver menos de 1% de chance de um candidato ser um falso positivo, ele é considerado um planeta validado. Esperamos aplicar essa técnica a grandes amostras coletadas por missões atuais e futuras, como o observatório TESS", disse o astrofísico David Armstrong.

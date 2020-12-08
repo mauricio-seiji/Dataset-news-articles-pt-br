@@ -1,0 +1,42 @@
+O provedor de internet pode rastrear os sites que você visita?
+Tira-dúvidas comenta questões técnicas e legais sobre rastreamento de navegação.
+
+
+
+Estou suspeitando que meu provedor de internet acompanha o histórico de navegação da minha casa. Isso é possível? – Paulo
+
+É "possível", Paulo, mas há limitações técnicas, dificuldades e até ilegalidades, dependendo das circunstâncias.
+
+    Do lado jurídico, o Marco Civil da Internet (Lei 12.965/2014) estabelece que não é permitido registrar acessos a aplicações (sites) na provisão de acesso à internet. 
+
+Mas você precisa ter cuidado com serviços adicionais oferecidos pelos provedores – isso inclui apps ou programas instalados no seu computador.
+
+Esses serviços não fazem parte do "acesso à internet" e podem ter suas próprias regras. Porém, qualquer coleta de dados deve ser prevista em contrato.
+
+Do ponto de vista técnico, o provedor poderia registrar o endereço de domínio dos sites que você visita, mas as páginas específicas acessadas em geral não ficam visíveis na conexão.
+
+Por exemplo: o provedor poderia saber que você visitou o G1 ("g1.globo.com"), mas não que você está lendo este texto.
+
+De modo geral, o provedor só vai registrar a atividade dos seus usuários após receber uma ordem judicial (para monitorar um investigado, por exemplo).
+
+Fora disso, se você achar que está sendo monitorado e tem alguma prova concreta disso, é conveniente abrir uma reclamação no Procon ou procurar o auxílio de um advogado.
+
+Marco Civil da Internet proíbe registro
+
+O artigo 14 da lei afirma que "na provisão de conexão, onerosa ou gratuita, é vedado guardar os registros de acesso a aplicações de internet".
+
+Pela definição dada no texto da própria lei, "aplicações de internet" são os sites e serviços utilizados. Dessa forma, o provedor é legalmente proibido de registrar essas informações como parte da prestação de serviços de conexão.
+
+Perceba, porém, que a proibição vale apenas para o para a "provisão de conexão". Muitos provedores oferecem pacotes ou cestas com diversos serviços que não são apenas de conexão. Se a coleta de dados for realizada a partir de um desses outros serviços, a questão jurídica já fica mais complicada.
+
+É sempre importante conferir o contrato de serviços, mas é ainda mais importante fazer isso quando você for contratar outros serviços.
+
+Agora que a Lei Geral de Proteção de Dados (LGPD) também está em vigor, é obrigatório obter o consentimento do consumidor antes de coletar qualquer informação, então tudo precisa estar no contrato.
+
+Por que parte do endereço dos sites fica visível?
+
+A maioria dos sites é acessada por meio do HTTPS (HTTP seguro), que usa criptografia para garantir a privacidade da conexão.
+
+    O HTTPS oculta o endereço completo da página visitada, de modo que apenas o nome de domínio ("g1.globo.com" ou "g1.com.br") seja visível para os intermediários da conexão, como o provedor.
+
+Mas a ideia de capturar a navegação bisbilhotando o HTTP (com ou sem segurança) é complicada: pode ser caro realizar análise de tráfego em grandes volumes de dados para extrair essa informação.

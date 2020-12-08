@@ -1,0 +1,15 @@
+Novo Autopilot da Tesla está coletando imensa quantidade de dados
+
+O programa beta para o novo Autopilot está gerando uma enorme quantidade de dados para a Tesla. Não há detalhes sobre as informações contidas pela empresa, mas arquivos devem incluir detalhes de navegação, hábitos, trajeto, eventos e outras atividades.
+
+O principal objetivo da Tesla na distribuição desse programa é a coleta massiva de dados do Autopilot em cenários reais. Motoristas participantes podem conferir quantos dados foram coletados a partir do monitoramento da conexão Wi-Fi; um dos pouquíssimos relatos conta que a companhia coletou cerca de 3,9 GB de informações da direção.
+
+
+Provavelmente, devido a quantidade limitada de veículos incluídos no programa, a Tesla precisa enriquecer seus bancos de dados com as informações disponíveis, gerando quantidade exagerada de uploads dos poucos participantes. De uma perspectiva cética, a prática é invasiva, mas deve ser encerrada assim que os recursos forem lançados para o público geral, considerando otimizações no método de coleta e alcance da atualização.
+
+Segundo o site Electrek, a Tesla distribuiu uma versão reescrita do Autopilot para uma lista seleta de “motoristas seguros”. A companhia não estabeleceu os padrões e critérios para se tornar participante; mas sabe-se que o grupo aceitou um acordo especial que exigia comprometimento com o fornecimento de feedbacks, dados, descrição de erros e submeter o veículo a cenários específicos de direção.
+
+Dados indispensáveis
+Anteriormente, a Tesla solicitava que donos de veículos enviassem parte de suas informações para aprimorar o piloto automático. A autorização voluntária dos motoristas já garantia à Tesla dados sobre milhões de quilômetros rodados em todos os seus veículos distribuídos pelo mundo.
+
+É provável que essas informações tenham sido um dos pilares principais da companhia durante a reconstrução do código do Autopilot, que logo deve ser devidamente apresentada pela companhia e chegar a todos os veículos através de atualizações.

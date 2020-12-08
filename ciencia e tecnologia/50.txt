@@ -1,0 +1,55 @@
+O método revolucionário que revelou um antibiótico capaz de matar as bactérias mais perigosas
+
+Um poderoso antibiótico capaz de matar algumas das bactérias mais resistentes e perigosas do mundo foi descoberto por uma equipe de pesquisadores que usa inteligência artificial.
+
+É a primeira vez que um antibiótico é encontrado dessa maneira e, de acordo com especialistas, a descoberta é um avanço na luta contra o crescente problema de bactérias resistentes a esse tipo de medicamento.
+
+Os mapas que mostram o avanço do coronavírus pelo mundo
+Para encontrá-lo, foi utilizado um poderoso algoritmo que analisou mais de 100 milhões de compostos químicos em questão de dias.
+
+O composto descoberto foi capaz de matar 35 tipos de bactérias capazes de matar, segundo os pesquisadores.
+
+
+Nos últimos anos, as infecções resistentes a antibióticos aumentaram. Estima-se que cerca de 700 mil pessoas morrem no mundo todos os anos por problemas diretamente relacionados a esse tipo de bactéria.
+
+Se os antibióticos forem tomados de maneira inadequada, as bactérias nocivas que vivem dentro do nosso corpo podem se tornar resistentes a eles — e isso significa que os medicamentos podem não funcionar quando realmente precisamos deles.
+
+No entanto, encontrar novos antibióticos é um grande desafio.
+
+Os pesquisadores treinaram o algoritmo para analisar a estrutura de 2.500 medicamentos e outros compostos para encontrar aqueles que tinham as melhores características antibacterianas para matar a E. coli
+
+Nova era
+"Em termos de descoberta de antibióticos, isso é absolutamente pioneiro", disse Regina Barzilay, pesquisadora principal do projeto do Instituto de Tecnologia de Massachusetts (MIT).
+
+A descoberta foi feita usando um algoritmo inspirado na arquitetura do cérebro humano.
+
+Os pesquisadores o treinaram para analisar a estrutura de 2.500 medicamentos e outros compostos para encontrar aqueles que tinham as melhores características antibacterianas contra a bactéria Escherichia coli.
+
+Então eles selecionaram 100 candidatos para testá-los fisicamente e, assim, descobriram uma substância chamada halicina.
+
+"Acho que este é um dos antibióticos mais poderosos já descobertos", disse James Collins, bioengenheiro da equipe do MIT.
+
+"Queríamos desenvolver uma plataforma que nos permitisse aproveitar o poder da inteligência artificial para marcar o início de uma nova era de descoberta de antibióticos".
+
+Peter Bannister, presidente do painel de assistência médica da Instituição de Engenharia e Tecnologia, disse que o método usado já estava "bem estabelecido" na pesquisa médica.
+
+"A mesma abordagem ganhou popularidade no desenvolvimento de novas terapias, como produtos farmacêuticos, e, no caso desta pesquisa, em antibióticos nos quais o reconhecimento de padrões pode ajudar a classificá-los entre um grande número de moléculas", disse Bannister à BBC News.
+
+A resistência aos antibióticos é uma das maiores ameaças à saúde, segurança alimentar e desenvolvimento global, segundo a Organização Mundial da Saúde
+
+"Este estudo vai além da simulação teórica e apresenta resultados pré-clínicos, que são essenciais, juntamente com ensaios clínicos subsequentes, para demonstrar claramente a eficácia e a segurança desses novos medicamentos 'descobertos pela inteligência artificial
+
+Os pesquisadores acrescentam que o uso de máquinas para acelerar a descoberta de medicamentos pode ajudar a reduzir o custo de gerar novos antibióticos no futuro.
+
+Avanços
+O estudo foi publicado algumas semanas depois da descoberta de molécula por inteligência artificial — ela se tornou a primeira desse tipo a ser usada em testes com humanos.
+
+Ela será usada para tratar pacientes com transtorno obsessivo-compulsivo (TOC).
+
+O uso da tecnologia de inteligência artificial no campo da assistência médica ainda está engatinhando, mas grandes avanços estão sendo feitos.
+
+Recentemente, um estudo afirmou que a inteligência artificial é mais precisa do que os médicos ao diagnosticar o câncer de mama com mamografias.
+
+Uma equipe internacional, que inclui pesquisadores do Google Health (serviço centralizado de informações pessoais focado na saúde) e do Imperial College, de Londres, projetou e treinou um modelo de computador com raios-X de cerca de 29 mil mulheres.
+
+O algoritmo foi melhor que seis radiologistas na interpretação de mamografias.

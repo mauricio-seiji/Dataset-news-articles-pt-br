@@ -1,0 +1,61 @@
+A incrível descoberta de centenas de milhões de árvores no deserto do Saara
+
+Quando se pensa no Saara, o maior deserto não polar do mundo, muitas vezes se imagina uma gigantesca planície de areia que parece se estender até o infinito.
+
+Mas um novo estudo mostra que o Saara esconde algo inesperado: centenas de milhões de árvores.
+
+Não agrupadas em uma floresta, mas árvores solitárias.
+
+Um grupo internacional de pesquisadores conseguiu contar essas árvores uma a uma em uma área de 1,3 milhão de quilômetros quadrados no noroeste da África.
+
+A região, que atravessa países como Argélia, Mauritânia, Senegal e Mali, inclui partes do Saara Ocidental e também o Sahel, o cinturão de savana tropical semiárida ao sul do deserto.
+
+O trabalho, publicado na revista Nature, concluiu que há "um número inesperadamente grande de árvores" nesta área.
+
+Mais especificamente, cerca de 1,8 bilhão foram registradas, um número muito maior do que o esperado.
+
+O principal autor do estudo, Martin Brandt, da Universidade de Copenhagen, na Dinamarca, disse à BBC News Mundo que embora "a maioria esteja no Sahel, existem centenas de milhões no próprio Saara".
+
+"Há em média uma árvore por hectare no hiperárido Saara. Não parece muito, mas acho que é mais do que se poderia imaginar", disse ele.
+
+Além disso, ele esclareceu que a área pesquisada representa apenas 20% do Saara e do Sahel, "então a contagem total de árvores é muito maior".
+
+Como foi a contagem
+O grupo de cientistas, que incluiu especialistas da Nasa (agência espacial americana), do Centro Nacional de Pesquisa Científica (CNRS) da França e do Centro de Monitoramento Ecológico de Dakar, no Senegal, entre outros, fez o trabalho acessando imagens de satélites de alta resolução normalmente reservadas para uso militar ou industrial.
+
+Eles usaram mais de 11 mil imagens da região, registradas por quatro satélites da empresa privada Digital Globe, que pertence à Agência Nacional de Inteligência dos Estados Unidos, que faz parte do Departamento de Defesa do país.
+
+Para encontrar as árvores, eles usaram um tipo de inteligência artificial conhecido como aprendizado profundo, no qual um computador é ensinado a fazer algo. Nesse caso, a identificar árvores.
+
+Para não confundir uma árvore com um arbusto, os especialistas decidiram contar apenas as copas com área superior a três metros quadrados.
+
+Brandt disse à BBC Mundo como treinou o sistema para identificar árvores com precisão.
+
+"Eu cataloguei manualmente a área da copa de quase 90 mil árvores", observou ele.
+
+"Eu registrei muitas porque o nível de detalhe nas imagens é muito alto e as árvores não parecem iguais, e queríamos uma medida relativamente precisa das áreas de suas copas", explicou.
+
+O trabalho mostrou que, em média, as copas tinham cerca de 12 m².
+
+Os pesquisadores estimaram que, se as árvores com copas menores que 3 m² ou arbustos menores forem incluídas, a vegetação total nesta área desértica seria 20% maior.
+
+O que isso significa
+Brandt observou que essa descoberta traz pouco alento quando se considera o enorme problema do desmatamento que tanto preocupa os ecologistas e que foi agravado nos últimos anos por grandes incêndios florestais em lugares como Grécia, Austrália, Estados Unidos e América do Sul.
+
+"Árvores em zonas áridas sempre estiveram lá. Saber seu número e localização é importante, mas não é equivalente ao plantio de novas árvores", disse ele.
+
+Ele também explicou que as árvores no deserto desempenham um papel menor do que as árvores nas selvas e florestas na absorção de dióxido de carbono da atmosfera.
+
+No entanto, ele enfatizou que, em áreas semiáridas e subúmidas, elas "são um considerável consumidor de carbono".
+
+Além disso, ele destacou a importância dessas árvores para as pessoas que vivem nessas regiões.
+
+"Elas são fundamentais para a subsistência, fertilizam o solo, proporcionam maior produtividade e fornecem sombra e abrigo para humanos e animais. Geram renda e são fundamentais para a nutrição", afirmou.
+
+Os especialistas acreditam que o sistema de rastreamento pode servir como base para encontrar árvores em outros ecossistemas.
+
+No entanto, eles alertam que ainda não existem condições para contar todas as árvores do planeta.
+
+"Devemos criar modelos mais robustos que possam ser usados ​​em uma variedade de diferentes sistemas de satélite com diferentes resoluções espaciais", disse Brandt.
+
+"Além disso, se for aplicado a florestas, muitas vezes é difícil identificar árvores individuais. Se é difícil para nossos olhos, também será difícil para o modelo."

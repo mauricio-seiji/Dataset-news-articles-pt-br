@@ -1,0 +1,113 @@
+Como a fruta mais fedida do mundo pode ajudar a gerar energia para seu telefone
+
+Elas são o coração da tecnologia portátil moderna. As baterias de íon de lítio transformaram nossa capacidade de armazenar e transportar energia e, por sua vez, revolucionaram os dispositivos que usamos.
+
+Comercializadas pela Sony em 1991, quando a empresa buscava uma solução para a duração limitada da bateria de suas câmeras de vídeo portáteis, elas fornecem energia a muitos dos gadgets que usamos hoje - de smartphones e laptops a escovas de dente elétricas e aspiradores de pó de mão. No fim do ano passado, os três cientistas por trás de sua invenção ganharam o Prêmio Nobel de Química por possibilitar essa revolução técnica.
+
+E nossa necessidade por elas só tende a crescer. Os veículos elétricos dependem de baterias de íon-lítio como um substituto para os combustíveis fósseis que usamos atualmente para abastecer nossos carros. Como as fontes de energia renováveis constituem a maior parte do suprimento de eletricidade em todo o mundo, é provável que sejam necessários enormes bancos de baterias para armazenar o excesso de energia quando o vento não sopra ou o Sol não está brilhando.
+
+Em todo o mundo, mais de 7 bilhões de baterias de íon-lítio são vendidas a cada ano e espera-se que esse número cresça para mais de 15 bilhões até 2027.
+
+Mas, como sabemos por nossos telefones, que armazenam cada vez menos energia à medida que envelhecem, as baterias de íon de lítio apresentam limitações. Com o tempo, sua capacidade de reter uma carga diminui, o que significa que elas armazenam menos energia.
+
+Em climas extremamente quentes ou frios, seu desempenho também cai. E também existem preocupações em torno de sua segurança e sustentabilidade - elas podem pegar fogo e explodir sob certas condições, enquanto a mineração dos metais necessários para fabricá-las tem um alto custo social e ambiental.
+
+Isso vem estimulando cientistas de todo o mundo a tentar desenvolver novos tipos de bateria que possam superar esses obstáculos. Ao aproveitar uma variedade de materiais, de diamantes a frutas super fedidas, eles esperam encontrar novas maneiras de impulsionar as tecnologias do futuro.
+
+As baterias de íon-lítio funcionam permitindo que partículas (íons) de lítio carregadas movam eletricidade de uma extremidade à outra, passando por um eletrólito líquido no meio. Uma das coisas que torna as baterias de íon de lítio tão atraentes é sua "densidade de energia" - a energia máxima que uma bateria pode armazenar proporcionalmente a seu volume - que é uma das mais altas de qualquer bateria disponível comercialmente no mercado. Elas também podem fornecer tensões mais altas do que outras tecnologias de bateria.
+
+As baterias são essencialmente feitas de três componentes principais - um eletrodo negativo (ânodo), um eletrodo positivo (cátodo) e um eletrólito entre eles. As funções dos eletrodos alternam entre cátodo e ânodo, dependendo se a bateria está carregando ou descarregando.
+
+Em baterias de íon de lítio, o cátodo é normalmente feito de um óxido de metal e outro metal. Ao carregar, os íons de lítio e elétrons se movem do cátodo para o ânodo, onde são "armazenados" como potencial eletroquímico. Isso ocorre por meio de uma série de reações químicas no eletrólito que são acionadas pela energia elétrica que flui do circuito de carga.
+
+Quando uma bateria está em uso, os íons de lítio fluem na direção oposta do ânodo para o cátodo através do eletrólito, enquanto os elétrons fluem através do circuito elétrico do dispositivo em que a bateria está instalada, fornecendo energia.
+
+Ao longo dos anos, ajustes nos materiais usados no cátodo e no ânodo ajudaram a melhorar a capacidade e a densidade de energia das baterias de íons de lítio, mas as melhorias mais substanciais foram na queda do custo das baterias.
+
+"Chegou a um ponto em que a química desenvolvida 35 anos atrás se estabilizou", diz Mauro Pasta, professor-associado de materiais da Universidade de Oxford, no Reino Unido, e líder de projeto na The Faraday Institution, que está trabalhando na próxima fase das baterias de íon-lítio.
+
+Seu objetivo é aumentar a densidade de energia das baterias de íon de lítio e, ao mesmo tempo, ampliar sua eficiência para que não percam energia com cargas e descargas repetidas.
+
+Para fazer isso, o professor Pasta está focado em substituir o fluido eletrolítico altamente inflamável encontrado em baterias de íon-lítio modernas por um sólido feito de cerâmica. O uso de um sólido reduz o risco de combustão de eletrólitos no caso de uma célula curta ou instável, que estava por trás do recall de 2017 da Samsung de 2,5 milhões de Galaxy Note 7s após uma série de incêndios por problemas na bateria.
+
+Isso é importante para a segurança do usuário e de seu entorno, pois até mesmo o eletrólito de gel de polímero encontrado na maioria de nossos eletrônicos portáteis ainda é inflamável.
+
+Essa bateria de estado sólido também possibilita o uso de metal de lítio denso em vez do ânodo de grafite, o que aumenta significativamente a quantidade de energia que pode armazenar no processo. Neste sentido, pode ter implicações enormes no futuro dos automóveis.
+
+No momento, todo veículo elétrico contém o equivalente a milhares de baterias de iPhone. Como os veículos elétricos parecem destinados a substituir aqueles movidos a combustíveis fósseis em muitos países nos próximos anos, a mudança para baterias de estado sólido significaria viagens mais longas e mais tempo entre as recargas.
+
+Nossa sede por bateria só tende a crescer nos próximos anos, ao passo que cada vez mais meios de transporte se tornam elétricos e a variedade de parafernálias eletrônicas portáteis em nossas vidas só aumenta. Sendo assim, devemos procurar alternativas ao lítio que possam diminuir o impacto no meio ambiente?
+
+A região do "Triângulo de Lítio" dos Andes - que inclui partes da Argentina, Bolívia e Chile - contém pouco mais da metade dos recursos naturais mundiais do metal. Mas extraí-lo requer água - muita água. Na região do Salar de Atacama, no Chile, cerca de 1 milhão de litros de água são usados no processo de mineração para produzir apenas 900 kg de lítio. O processo envolve a purificação dos sais ricos em metais dissolvendo-os progressivamente em água, filtrando e evaporando a salmoura até que o sal de lítio puro seja obtido. Órgãos ambientais administrados pelo governo chileno, no entanto, alertaram que a mineração de metais - principalmente de lítio e cobre - na região está usando mais água do que é substituída por neve e chuva.
+
+Para contornar isso, pesquisadores do Instituto de Tecnologia de Karlsruhe estão trabalhando em baterias que usam diferentes metais no ânodo, como cálcio ou magnésio. O cálcio é o quinto elemento mais abundante na crosta terrestre e é improvável que sofra dos mesmos problemas de abastecimento que o lítio, mas as pesquisas para melhorar o desempenho das baterias que o utilizam ainda estão engatinhando. O magnésio também apresenta resultados iniciais promissores, principalmente em termos de densidade energética, e há planos de comercialização no futuro.
+
+Mas há quem esteja buscando alternativas em materiais mais amplamente disponíveis, incluindo a madeira, por exemplo.
+
+Liangbing Hu, diretor do Centro de Inovação de Materiais da Universidade de Maryland, nos Estados Unidos, construiu recentemente uma bateria usando pedaços de madeira porosos e furados como eletrodos, dentro dos quais íons metálicos reagem para gerar uma carga elétrica. A madeira é abundante, de baixo custo e leve, e apresenta alto potencial de desempenho em baterias. As baterias mais recentes foram produzidas após anos de pesquisa sobre a capacidade desse material de armazenar energia, incluindo o revestimento de fibras de celulose de madeira em estanho.
+
+Como a madeira evoluiu naturalmente para ser permeável aos nutrientes conforme eles são transportados pela planta, o material faz eletrodos com a capacidade de armazenar íons de metal sem o risco de se espandir ou encolher perigosamente, como pode ocorrer com os eletrodos de bateria de íon de lítio.
+
+Embora a equipe de Hu preveja que as baterias à base de madeira vão poder ser usadas em nossos eletrônicos portáteis, bem como no armazenamento de energia em grande escala em determinado momento, ainda não poderemos carregar nossos laptops com elas, pois ainda estão sendo testadas em laboratórios.
+
+Essas baterias perdem a capacidade de armazenar uma carga relativamente rápida - um protótipo só conseguia manter 61% de sua capacidade inicial após 100 ciclos de recarga. No momento, a quantidade de madeira usada é de vários centímetros de largura e comprimento, e as baterias podem ser empilhadas ou conectadas para aplicações em larga escala, o que pode eventualmente ser útil para armazenar energia em casas ou outros edifícios.
+
+O lítio não é o único metal encontrado na maioria das baterias modernas - a maioria também usa cobalto em combinação com lítio no cátodo. A mineração de cobalto gera um impacto tóxico que afeta a saúde das comunidades que vivem no entorno das minas e também o meio ambiente. A mineração de cobalto também é prejudicada pelo uso de trabalho infantil, especialmente na República Democrática do Congo, na África, país que abriga mais da metade das minas de cobalto do mundo. As principais empresas de tecnologia, incluindo Apple, Tesla e Microsoft, foram recentemente processadas por mortes na mineração de cobalto.
+
+"Todo mundo está carregando uma bateria de íon de lítio extraída por crianças", diz Jodie Lutkenhaus, engenheira química da Texas A&M University, nos Estados Unidos.
+
+Isso a inspirou a desenvolver alternativas para essas "baterias de sangue" usando proteínas, as moléculas complexas criadas e usadas por organismos vivos. Os ânodos das baterias tendem a ser feitos de grafite e os cátodos são feitos de óxidos de metal que contêm elementos como o cobalto. Se eles puderem ser substituídos por materiais orgânicos para ambos os eletrodos ativos, isso significa que o cobalto não precisará mais ser extraído.
+
+Isso não apenas descarta a necessidade de metais tóxicos que precisam ser extraídos do solo, mas também lança luz sobre outro legado ambiental das baterias de íon-lítio. Se eliminados após o uso em aterros sanitários, os metais e eletrólitos do íon de lítio podem vazar para o meio ambiente, causando mais danos. Atualmente, apenas cerca de 5% das baterias de íon-lítio usadas nos 1,5 bilhão de smartphones vendidos a cada ano são recicladas.
+
+Desenvolvida em colaboração com sua colega Karen Wooley, na Texas A&M University, a bateria de proteína de Lutkenhaus é a primeira célula de energia do mundo que se degrada a partir de sua dissolução em um ácido, o que significa que pode ser facilmente quebrada e usada novamente.
+
+Embora ela ainda não possa competir com o íon de lítio - só fornece até 1,5 V por cerca de 50 ciclos de recarga antes de perder potência - faz parte de uma série de iniciativas sobre como a sustentabilidade está sendo levada em conta para o design de novas baterias.
+
+Super fruta
+Em outro desdobramento, um grupo de pesquisadores não está apenas tentando encontrar novas maneiras de fornecer energia a nossos dispositivos, mas também lidar com o problema do desperdício de alimentos ao mesmo tempo.
+
+Vincent Gomes, engenheiro químico da Universidade de Sydney, e sua equipe, incluindo Labna Shabnam, estão transformando os resíduos da fruta mais fedorenta do mundo, o durião, e da maior fruta do mundo, a jaca, em um supercapacitor que pode carregar telefones celulares, tablets e laptops em minutos.
+
+Os supercapacitores são uma forma alternativa de armazenamento de energia. Eles agem como reservatórios, capazes de carregar rapidamente e, em seguida, descarregar energia em rajadas. Eles tendem a ser feitos de materiais caros como o grafeno, mas a equipe de Gomes transformou partes não comestíveis de durião e jaca em aerogéis de carbono - sólidos superleves porosos - com propriedades "excepcionais" de armazenamento natural de energia. Eles aqueceram, liofilizaram e depois assaram o núcleo esponjoso não comestível de cada fruta em um forno a temperaturas de mais de 1.500 °C. As estruturas pretas, altamente porosas e ultraleves que resultaram desse processo poderiam ser transformadas em eletrodos de um supercapacitor de baixo custo.
+
+Os supercapacitores podem ser carregados em 30 segundos e usados para alimentar uma variedade de dispositivos.
+
+"Ser capaz de carregar um telefone celular em um minuto é incrível", diz Shabnam.
+
+O sonho dos pesquisadores é usar esses supercapacitores sustentáveis para armazenar eletricidade de fontes renováveis de energia para uso em veículos e residências.
+
+E isso antes de considerar os benefícios de encontrar um uso verde para o durião, já que mais de 70% dessas frutas tendem a ser jogadas fora.
+
+Em 2018, o mau cheiro impediu temporariamente a decolagem de um avião na Indonésia. Também levou a uma evacuação em massa de uma biblioteca da Universidade de Canberra, na Austrália, no ano passado.
+
+Nos estágios iniciais de sua pesquisa, o fedor se tornou um desafio para a mulher de Gomes, que retirou todos os restos da fruta fedorenta do freezer depois de apenas uma noite.
+
+Outros tipos de resíduos de plantas também podem ser usados para alimentar os dispositivos do futuro. Mikhail Astakhov, físico químico da Universidade Nacional de Ciência e Tecnologia (MISiS) em Moscou, na Rússia, transformou a hogweed, uma erva daninha de seiva tóxica que pode provocar bolhas quando em contato com a pele humana, em uma matéria-prima para um supercapacitor tecnicamente capaz de carregar um telefone.
+
+Baterias são para sempre
+Embora o impacto ambiental das baterias de íon-lítio concentre as atenções da comunidade científica, outros pesquisadores vêm se dedicando a enfrentar outras limitações desse dispositivo.
+
+Tom Scott, professor de materiais da Universidade de Bristol, no Reino Unido, diz não acreditar que as baterias de íon-lítio vão perder espaço em seu uso convencional no próximo século. Mas, segundo ele, existem oportunidades quando se trata de armazenar energia em ambientes mais extremos.
+
+Junto com sua equipe, Scott tem desenvolvido baterias feitas de diamantes. Ao produzir diamantes artificiais que contêm carbono-14 radioativo, os pesquisadores conseguiram criar "baterias betavoltaicas" que produzem uma corrente constante e podem durar milhares de anos.
+
+Presos dentro da rede de diamante, os isótopos radioativos disparam elétrons de energia superalta à medida que sofrem decaimento nuclear. Isso, por sua vez, cria uma chuva de elétrons através da estrutura do diamante que pode ser aproveitada para produzir uma corrente elétrica.
+
+Do lado de fora, a radioatividade permaneceria em níveis seguros, dizem os pesquisadores.
+
+A equipe já criou um protótipo de "bateria de diamante" usando diamantes artificiais colocados dentro de um campo radioativo produzido pelo isótopo Níquel-63, que dispara um fluxo de elétrons através do diamante. Mas agora eles estão trabalhando em uma versão que usa carbono-14 extraído de blocos de grafite usados em usinas nucleares. Ao transformar esse lixo nuclear em uma bateria de longa duração, Scott e seus colegas esperam encontrar novo uso para o resíduo dessas usinas à medida que elas são desativadas.
+
+"Trata-se de uma reviravolta", diz Sophie Osbourne, que integra a equipe de Scott. "Por muito tempo, coletamos lixo nuclear e agora não estamos mais falando sobre armazenamento de longo prazo, mas sim reaproveitá-lo para produzir eletricidade."
+
+Apesar de as baterias químicas como o íon-lítio não terem bom desempenho em altas temperaturas, as de diamante podem funcionar em ambientes mais extremos onde não faltam alternativas, como no espaço, no fundo do mar ou talvez no topo de um vulcão. Elas seriam perfeitas para manter satélites e sensores computadorizados funcionando, por exemplo.
+
+"As baterias são absolutamente minúsculas", diz Scott. Até agora, os pesquisadores conseguiram gerar baterias de diamante que produzem 1,8 volts - semelhante a uma bateria AA - embora tenha uma corrente muito mais baixa. Elas também são tecnicamente recarregáveis, mas exigiriam algumas horas dentro de um núcleo de reator para atingir sua potência original, diz Scott.
+
+Embora o fluxo constante de corrente criado à medida que o material radioativo decai signifique que elas irão emitir eletricidade por um tempo incrivelmente longo - o carbono tem meia-vida de 5.730 anos, acrescentam os pesquisadores.
+
+Apesar de serem feitas de diamante, é improvável que, uma vez comercializadas, essas baterias sejam caras, diz Scott.
+
+"Você ficaria surpreso com quão pouco os diamantes artificiais podem custar".
+
+Nas próximas duas décadas, Scott diz acreditar que poderíamos até mesmo começar a ver baterias de diamante de ultra-longa duração aparecerem em nossas casas, talvez em detectores de fumaça ou controles remotos de TV, ou em dispositivos médicos, como aparelhos auditivos ou marca-passos.

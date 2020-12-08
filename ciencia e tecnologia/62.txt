@@ -1,0 +1,95 @@
+Os superdrones e robôs que vão até onde humanos não conseguem ir
+
+Das planícies do Ártico a vulcões em atividade, do fundo do oceano a planetas distantes - uma nova geração de robôs está indo a lugares onde os seres humanos não conseguem ir.
+
+Mas como essas máquinas superfortes são construídas?
+
+Quando partir para suas explorações do Ártico, o navio de pesquisa da marinha real britânica RRS David Attenborough vai levar uma série de drones autônomos planejados para descobrir os mistérios das regiões polares e capazes de voar e submergir.
+
+Um dos drones submarinos, ou AUV (na sigla em inglês), que pode estar a bordo tem o nome de Boaty McBoatface. O nome foi escolhido originalmente para o navio maior em uma enquete na internet - que depois foi cancelada.
+
+Boaty foi planejado para mergulhar a uma profundidade de até 6 mil metros, onde a pressão é 600 vezes maior do que ao nível do mar. Veículos menos "blindados" seriam completamente esmagados nessas condições. 
+
+O drone submarino vem equipado com uma série de sensores, equipamentos de filmagem, sonares, microfones especiais para serem usados debaixo d'água e outros apetrechos de comunicação.
+
+A ideia é colher dados sobre as mudanças de temperatura no fundo do oceano e seu potencial impacto nas mudanças climáticas.
+Quebra-cabeça tecnológico
+
+Um dos desafios mais difíceis enfrentados pelos projetistas do Centro Nacional de Oceanografia do Reino Unido, que criaram o drone, foi construir uma máquina que fosse capaz de viajar longas distâncias sob o gelo sem precisar recarregar sua fonte de energia.
+
+Avanços recentes em microprocessamento, muitos deles resultantes do desenvolvimento de tecnologia de smartphones, ajudaram nesse campo. Eles permitiram reduzir a quantidade de energia que os drones precisam para funcionar.
+
+O robô Lemur, da Nasa, consegue subir e descer penhascos
+
+"O veículo foi projetado para usar uma quantidade muito baixa de energia para seus sistemas de propulsão", explica Maaten Furlong, chefe de sistemas marítimos e robóticos do Centro Nacional de Oceanografia.
+
+"Por isso ele viaja em uma velocidade relativamente baixa, mas que permite cobrir grandes distâncias e executar missões mais longas que os veículos anteriores."
+
+No início no ano passado, "Boaty" completou sua primeira expedição sob o gelo no oeste da Antártida, onde passou um total de 51 horas submerso, viajando 108 quilômetros.
+
+Ele alcançou a profundidade de 944 metros, chegando a viajar sob uma seção do gelo de 550 metros de espessura. Os sinais de GPS não conseguem ir tão fundo, o que torna a navegação complicada.
+
+Nessa situação, o drone precisa usar a chamada navegação estimada. Usando um ponto de origem - como o próprio navio RRS David Attenborough - o robô estima a direção e distância percorridas, calculando a velocidade por meio de um sonar.
+
+Os robôs bombeiros do Japão suportam calor extremo
+
+Seu sensor de fibra ótica tem uma taxa de erro de 0,1%, o que significa que para cada quilômetro viajado o drone pode sair um metro do curso planejado, dizem os criadores.
+
+Mas para explorar ainda mais longe e mais profundamente, novas tecnologias de navegação serão necessárias. E elas estão sendo desenvolvidas.
+
+Um novo sistema chamado Navegação Assistida de Terreno basicamente mapeia o fundo do mar. Os mapas obtidos são passados para o computador do veículo.
+
+Para o futuro, os criadores esperam que os robôs sejam capazes de "ver" bem o suficiente para criar seus próprios mapas em tempo real.
+
+"Uma ambição de longo prazo para a família de veículos é ser capaz de completar uma missão sob o gelo atravessando o Ártico, um ambiente sobre o qual sabemos muito pouco", diz Furlong.
+
+"Para isso, as tecnologias que estão sendo desenvolvidas agora, como a Navegação Assistida de Terreno, precisão estar totalmente operacionais."
+Explorando planetas
+
+Condições subaquáticas no polo norte são muito extremas, mas a superfície de Marte é ainda mais desafiadora.
+
+Dois aparelhos estão sendo desenvolvidos pela Nasa, a agência espacial americana, para explorar as profundezas vulcânicas do "planeta vermelho".
+
+Os robôs estão sendo testados na Terra, e seus criadores também veem a possibilidade de usa-los mais próximo de casa.
+
+Uma das máquinas é o chamado Lemur, que tem quatro membros mecânicos capazes de escalar paredes de pedra graças a centenas de pequenos ganchos em cada um de seus 16 dedos.
+
+Engenheiros dos laboratórios de propulsão a jato da Nasa levaram o Lemur para um campo de teste no Vale da Morte, na Califórnia, em janeiro. Lá, o aparelho usou inteligência artificial para escolher uma rota para subir um penhasco.
+
+Rocha vulcânica é um terreno difícil para humanos e robôs
+
+O pesquisador da Nasa Aaron Parness diz que as habilidades do robô para subir rochas poderiam ser usadas para operações de busca e resgate e para ajudar equipes de resposta a desastres.
+
+Encontrar garras que não se desgastassem com o atrito na pedra foi um desafio.
+
+"Nós pensamos em titânio, aço, fibra de carbono, carbeto, ligas de aço", diz Parness. "Testamos agulhas de costura, seringas, ferramentas de corte de metal e até espinhos de cactos."
+
+A solução? Anzóis de pesca.
+
+"A indústria da pesca é muito boa em produzir coisas afiadas, fortes e duráveis", diz o pesquisador.
+Calor extremo
+
+O outro robô "durão" da Nasa é o Volcanobot, um aparelho de custo relativamente baixo projetado para ser baixado em fissuras vulcânicas e sobreviver ao calor extremo.
+
+Em uma missão de teste no Kilauea, no Havaí, o Volcanobot mapeou os caminhos de erupções antigas para entender como esse tipo de vulcão funciona no subsolo.
+
+Mas construir máquinas capazes de navegar terrenos hostis e lidar com temperaturas extremas é uma tarefa árdua.
+
+A rocha vulcânica é extremamente afiada e dura, explica Parness.
+
+Então, o robô usa material misturado com fibra de carbono em suas peças, impressas em 3D, para que elas seja mais resistentes à abrasão.
+
+"Ele fica riscado que é uma loucura, mas isso protege os equipamentos eletrônicos por dentro dele", diz o cientista.
+
+A equipe criou uma "casca" que consegue aguentar até 300°C, mas os aparelhos eletrônicos dentro do robô são muito mais frágeis: "tendem a falhar entre 60°C e 80°C".
+
+"Não adianta nada ter uma cobertura forte e robusta protegendo um robô morto por dentro."
+Combate a incêndio
+
+No Japão, a área de equipamentos pesados da Mitsubishi desenvolveu robôs automatizados para combater o fogo que também são projetados para sobreviver a calor extremo.
+
+Equipados com GPS e sensores a laser para ajudá-los a circular em um incêndio, os "robôs canhão-de-água" se posicionam no local ideal e então um drone com a mangueira vai até a fonte de água.
+
+Esse robô bombeiro consegue fazer jorrar até 4 mil litros de água por minuto.
+
+O sistema passou por seu primeiro teste em março, no Instituto Nacional de Pesquisa em Fogo e Desastre de Tóquio. Seus criadores preveem o uso do robô em situações extremamente instáveis, como incêndios petroquímicos. 

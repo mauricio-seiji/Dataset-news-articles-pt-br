@@ -1,0 +1,36 @@
+Startups europeias estão anos à frente da Neuralink em biohacking
+
+Os anúncios da Neuralink sempre ganham intensa cobertura da mídia – principalmente pelo otimismo mostrado por Elon Musk e seu clima “quase lá”. Na verdade, empresas na Europa estão, silenciosamente, anos à frente no desenvolvimento de interfaces entre o sistema nervoso e o mundo exterior.
+
+“Por dois anos, conseguimos tocar nossa empresa com US$ 130 mil. Com três meses de trabalho, poderíamos mostrar exatamente a mesma tecnologia que a Neuralink teve quatro anos e US$ 100 milhões para desenvolver – isso é meio ridículo”, disse o neurocientista da computação Emil Hewage.
+
+Ele e o bioengenheiro Oliver Armitage fundaram a britânica BIOS em 2015; ao participar do programa de investimentos Y Combinator em 2017, eles já podiam implantar um chip no cérebro de um porco.
+Desde 1990
+
+Essa história se repete por toda a Europa (onde biohacking e conexão de máquinas com humanos já existe desde a década de 1990), com startups geradas nos laboratórios das universidades – a BIOS surgir como Cambridge Bio-Augmentation Systems, dentro da prestigiada instituição; outras universidades, como a Karolinska em Estocolmo, Suécia, e a de Freiburg, na Alemanha, fazem o mesmo.
+
+Em uma única rodada de investimentos, a startup italiana Wise (que desenvolve malhas de chips intracerebrais para monitoramento neurofisiológico) conseguiu levantar € 15 milhões (US$ 17,5 milhões), enquanto a  holandesa Salvia Bioelectronics arrecadou € 26 milhões (US$ 30,35 milhões).
+
+A italiana Wise desenvolve chips intracerebrais para monitoramento de tumores cerebrais e mal de Parkinson.A italiana Wise desenvolve chips intracerebrais para monitoramento de tumores cerebrais e mal de Parkinson.Fonte:  Wise/Divulgação 
+
+A startup alemã CereGate, fundada em 2019, conseguiu investimentos depois de concluir, com sucesso, um estudo de prova de conceito com mais de 15 pacientes sobre estimulação cerebral profunda (quando um hardware é implantado no cérebro ou na medula espinhal do paciente).
+
+O forte da empresa, porém, é o software capaz de enviar impulsos elétricos e "escrever" informações no cérebro do paciente, em vez de apenas interpretar a atividade neural. “Hoje somos capazes de transferir informações diretamente para o cérebro, e isso é revolucionário”, disse o fundador e CEO da Ceregate, Bálint Várkuti.
+Religar o cérebro
+
+Enquanto Elon Musk ainda comemora o implante na porquinha Gertrudes e se esquiva de dizer quando os testes clínicos começarão, a BIOS deve iniciar os seus no ano que vem.
+
+O objetivo é usar implantes para religar o cérebro, no caso de doenças causadas pela falha de comunicação entre entre o cérebro e os órgãos. Assim como a Neuralink, a empresa britânica tem seu próprio implante, mas ele é usado para extrair dados.
+
+A engenheira de software Catherine Hanley mapeia a IA da BIOS.A engenheira de software Catherine Hanley mapeia a IA da BIOS.
+
+A empresa já captou € 7,5 milhões (US$ 8,75 milhões) usados para não apenas reunir um robusto banco de dados para alimentar seu sistema de inteligência artificial como avançar na tradução da linguagem do sistema nervoso.
+Porta USB
+
+Em 2018, eles fecharam uma parceria com a NVIDIA para desenvolver interfaces neurais que permitiriam a dispositivos externos se comunicarem diretamente com o sistema nervoso.
+
+Segundo Hewage, “estamos construindo, essencialmente, uma porta USB para permitir a comunicação com o sistema nervoso. Cada pessoa tem um código neural incrivelmente diverso. Podemos usar IA e técnicas de big data para encontrar as linguagens subjacentes”.
+
+Os fundadores da BIOS, Oliver Armitage (à esquerda) e Emil Hewage.Os fundadores da BIOS, Oliver Armitage (à esquerda) e Emil Hewage.
+
+Com os testes clínicos planejados para 2021, a BIOS deve apresentar um código para reprogramar implantes existentes ou mesmo desenvolver um nativo. Ao contrário de Elon Musk, seus fundadores mantêm o cronograma em sigilo e bem longe dos holofotes.

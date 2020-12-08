@@ -1,0 +1,87 @@
+O telescópio capaz de ver coisas que ocorreram há 13 bilhões de anos
+
+ Este observatório espacial é capaz de olhar para o ponto mais remoto do passado.
+
+O Telescópio Espacial James Webb (JWST, na sigla em inglês), uma missão internacional das agências espaciais dos EUA (Nasa), Europa (ESA) e Canadá (CSA), está sendo construído há vários anos, a um custo bilhões de dólares acima do orçamento.
+
+A previsão é que seja lançado em 2021 e fique posicionado a mais de um milhão de quilômetros da Terra.
+
+De acordo com cientistas, ele será capaz de detectar qualquer galáxia no universo.
+
+Mas uma peça chave do JWST é um instrumento construído por uma equipe de astrônomos e engenheiros de Edimburgo, na Escócia.
+
+Trata-se do Miri (instrumento infravermelho médio), uma ferramenta projetada para medir a faixa de comprimento de onda de radiação infravermelha média.
+
+O Miri, um dos quatro principais detectores do JWST, vai nos permitir olhar para o passado, para centenas de milhões de anos após o Big Bang, que teria ocorrido há mais de 13,5 bilhões de anos.
+Presentational white space
+Como pode ver o passado?
+
+A capacidade de olhar para trás no tempo é baseada no fato de que até mesmo a luz tem um limite de velocidade.
+
+Ela percorre cerca de 300 mil quilômetros por segundo, o que significa que a luz do Sol leva mais de oito minutos para chegar à Terra.
+
+Assim, devido ao tempo necessário para viajar pelo espaço, quanto mais distante um objeto estiver, mais longe vemos no tempo.
+
+A imagem de uma estrela que está a um bilhão de anos-luz de distância, por exemplo, leva um bilhão de anos para chegar até nós.
+
+E quando vemos essa estrela, o que estamos vendo é como ela era há um bilhão de anos.
+
+Engenheiros de controle de contaminação inspecionam o MIRI na Nasa
+
+O telescópio James Webb é perfeito para estudar mundos e planetas distantes que orbitam outros sóis — conhecidos como exoplanetas, porque existem fora do nosso sistema solar.
+
+A existência do primeiro exoplaneta foi confirmada em 1995. E hoje sabemos que há mais de 4 mil deles.
+
+O Miri vai permitir que os astrônomos observem eles com mais detalhes, incluindo suas atmosferas em busca de sinais de vida extraterrestre.
+Como funciona?
+
+Assim como todos os telescópios espaciais, o JWST começa com uma vantagem sobre seus equivalentes em terra.
+
+Não há atmosfera para distorcer nossa visão — portanto, as estrelas não brilham no espaço.
+
+Todos os instrumentos do JWST têm visão infravermelha, o que permite enxergar através da poeira interestelar que bloqueia a luz.
+
+Além disso, a luz que viaja de uma estrela distante se distorce no trajeto até nós.
+
+O espelho do JWST mede 6,5 metros e precisará ser dobrado em 18 segmentos hexagonais para caber dentro do foguete de lançamento
+
+Seu comprimento de onda se torna mais longo, o que significa que a luz que estava na faixa visível para os seres humanos é deslocada para o infravermelho do espectro eletromagnético.
+
+Este é um efeito chamado "desvio para o vermelho" e significa que se você quiser observar pontos mais remotos do passado, deve olhar para objetos que parecem invisíveis para nós.
+
+No entanto, esses objetos "invisíveis" não são invisíveis para o telescópio James Webb.
+
+Três de seus detectores estão sintonizados no infravermelho próximo. Como o termo sugere, logo depois do vermelho que podemos ver no espectro eletromagnético.
+
+Mas o quarto detector, o Miri, é capaz de olhar mais profundamente, no infravermelho médio. O que significa que você será capaz de observar muito mais longe e pontos muito mais remotos.
+
+O JWST possui um enorme aparato de proteção solar, criado para manter sua temperatura alguns graus acima do zero absoluto
+
+O professor Alistair Glasse, principal cientista do Miri, explicou como o detector funciona.
+
+"Ele pode ver as cores dos objetos, por exemplo, que estão aproximadamente à temperatura ambiente", diz.
+
+"Isso se torna particularmente interessante se você deseja estudar planetas orbitando outras estrelas".
+
+E o mais fascinante é que o Miri será capaz de ver quase o início do universo.
+
+"Acreditamos que as primeiras estrelas que se formaram eram muito grandes e deram início à cadeia de produção dos elementos e das estrelas que vemos ao nosso redor", afirma Gillian Wright, principal pesquisadora europeia do Miri.
+
+"Não sabemos muito sobre [esta era]. Sabemos como era a estrutura do universo logo após o Big Bang, e sabemos pelo (telescópio) Hubble e por outras missões, como as galáxias são agora ou em épocas posteriores."
+
+"Mas e a pequena porção do meio? Como as primeiras se formaram? Não sabemos muito sobre essa época."
+Um espelho maior que o do Hubble
+
+O JWST é, literalmente, um grande empreendimento. É do tamanho de uma quadra de tênis, e seu espelho de 6,5 metros é várias vezes maior que o do Hubble.
+
+Em sua configuração funcional, é grande demais para qualquer foguete, portanto precisará ser dobrado em 18 painéis hexagonais que serão abertos no espaço.
+
+O JWST também possui um enorme aparato de proteção solar, desenvolvido para manter a temperatura apenas alguns graus acima do zero absoluto.
+
+É composto por cinco camadas delicadas, finas como uma película de plástico-filme, que deverão ser esticadas no espaço.
+
+O JWST está sendo exaustivamente testado aqui na Terra, uma vez que será enviado para onde ninguém poderá consertá-lo.
+
+Ele vai orbitar o ponto L2, a cerca de um milhão de quilômetros do nosso planeta — um ponto no espaço em que a força gravitacional do Sol e da Terra está em equilíbrio, o que permitirá que o telescópio permaneça a uma distância quase constante.
+
+A missão, prevista para 2021, deve durar menos de seis anos.

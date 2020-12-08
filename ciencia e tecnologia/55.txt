@@ -1,0 +1,34 @@
+Computador da IBM participa de debate na TV com humanos
+
+Computador da IBM coletou propostas enviadas pela internet, sumarizou as discussões e traçou argumentos que pudessem ser usados por humanos em debate
+
+Colin Powell, ex-secretário de Estado americano, costumava dizer que “grandes líderes são quase sempre grandes simplificadores, que podem sintetizar argumentos, debater e duvidar, oferecer uma solução que todo mundo possa entender”. No começo dos anos 2000, quando o general ocupou o mais alto posto da diplomacia americana, as inteligências artificiais estavam longe da realidade cotidiana desses grandes líderes, que hoje podem contar com as comodidades da tecnologia a tiracolo, para resolver esses e outros problemas.
+
+Foi exatamente esse o papel de uma delas, elaborada pela IBM, que auxiliou um debate que aconteceu nesta sexta-feira, 9, na Bloomberg TV, sobre redistribuição de renda. O episódio foi o primeiro de uma série de debates que serão transmitidos no canal, mediados pelo jornalista John Donvan, em uma parceria com a organização Intelligence Squared, especializada em debates nos Estados Unidos.
+
+Menos no papel de tomar as rédeas do debate e participar como um dos argumentadores, o algoritmo da IBM teve uma função de bastidor: permitiu maior interação do público e compreensão de quais pontos deveriam ser levado em conta pelos debatedores.
+
+Antes do evento desta sexta foi possível enviar argumentos para o computador, que fazia a análise prévia, interpretava a qualidade do ponto levantado e se, dentro da temática, era um argumento a favor ou contrário — esse processo foi chamado de análise de pontos-chave. 
+
+Foram submetidos 3.500 argumentos, 1.600 foram considerados utilizáveis (46% do total) e o programa sugeriu 20 pontos finais, dentro de duas narrativas coerentes, uma para cada lado do debate.
+
+O programa tem um modelo tradicional, chamado de estilo de Oxford: dois grupos com dois especialistas debatem durante quatro rodadas. A favor da redistribuição de renda estavam o ex-escretário do Trabalho americano, Robert Reich, e o ex-ministro de Finanças da Grécia, Yanis Varoufakis. Contra a proposta, enfileiraram-se Larry Summers, ex-secretário de Tesouro dos Estados Unidos, e Allison Schrager, autora e membro sênior do Instituto Manhattan.
+
+Para o próximo debate, a submissão de argumentos estará disponível até o dia 17 de outubro, através do site do projeto. O segundo episódio pretende debater se uma corrida espacial entre a China e os Estados Unidos é boa ou não para a humanidade.
+
+Especialistas debatem na Bloomberg TV, com argumentos selecionados por inteligência artificial
+
+De acordo com Noam Slonim, engenheiro da IBM por trás do Project Debater, foram usados alguns argumentos prévios para calibrar o algoritmo e fazer um afinamento do sistema antes que ele pudesse receber propostas enviadas pelo público. A acurácia é 95%, alta se comparada a propostas semelhantes. 
+
+“Quando estimamos a precisão de um argumento usando correlação é preciso lembrar, antes de tudo, que estamos falando de um sistema real, tentando resolver um problemas real e não é perfeito. Você poderia enganá-lo se tentasse o bastante”, disse Slonim, apontando ainda que reconhecer a certeza e precisão de dois argumentos distintos é uma tarefa complexa até mesmo para seres humanos.
+
+Há um histórico de projetos auspiciosos na IBM envolvendo inteligência artificial. Depois que um computador da empresa, o Deep Blue, venceu o campeão de xadrez Gary Kasparov em 1997, o “Project Debater” foi a nova fronteira do desenvolvimento tecnológico em processamento de linguagem natural.
+
+O projeto em questão envolvia um debate com a participação ativa de um computador, que era confrontado por debatedores profissionais, como Noa Ovadia, campeã israelense de debates de 2016. Em fevereiro de 2019, a inteligência artificial enfrentou Harish Natarajan, que detém o recorde de maior número de vitórias em debates competitivos. Os dois discutiram subsídios de pré-escola na frente de uma plateia de 800 pessoas em São Francisco.
+
+Longe da ribalta
+Mas, no final do dia, para que serve um computador que pode elencar argumentos em um debate competitivo? A aplicação apresentada é apenas ilustrativa e a IBM espera que esse tipo de tecnologia possa ser posto em prática nas empresas, através da inteligência artificial por trás do Watson.
+
+Receber pontos, elencar rotas possíveis e realizar a tomada de decisão são todas tarefas complexas que poderiam ser facilitadas por um algoritmo capaz de filtrar, categorizar e dividir pontos-chave em uma estrutura compreensível. É uma ferramenta útil para gestores, líderes e até governos, permitindo a tomada de decisão informada e guiada por dados.
+
+Inclusive, Slonim, quando questionado sobre o uso da tecnologia em debates políticos — entre candidatos à Presidência, por exemplo —, afirmou que essa é possível. “Essa tecnologia pode ser usada como um canal de conversação entre uma audiência mais ampla e as pessoas no poder, tomando decisões”, disse.

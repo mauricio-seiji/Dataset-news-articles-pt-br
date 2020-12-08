@@ -1,0 +1,68 @@
+PIX começa a funcionar nesta segunda-feira; saiba tudo sobre a nova modalidade de pagamentos
+Sistema tem quase 30 milhões de pessoas cadastradas e pretende aumentar a digitalização de pagamentos no Brasil.
+
+
+O PIX, novo sistema de pagamentos instantâneos brasileiro, estreia nesta segunda-feira (16), com quase 30 milhões de pessoas cadastradas. A tecnologia desenvolvida pelo Banco Central está disponível para clientes de 762 bancos, corretoras e instituições financeiras que operam no país.
+
+O principal objetivo do sistema é aumentar a digitalização das transações financeiras no Brasil. Segundo o BC, a adesão também ajudará a aumentar a competição no mercado financeiro e reduzir o uso de papel moeda.
+
+A expectativa do mercado é que o sistema seja o grande substituto de DOCs e TEDs, por ser um sistema gratuito e estar disponível a qualquer hora, sete dias por semana. Mas também servirá para efetuar compras on e offline. Por ser instantâneo, as trocas devem ocorrer em até 10 segundos.
+
+Como o PIX funciona na prática
+
+PIX: veja exemplos de como o novo sistema de pagamentos irá funcionar na vida prática
+
+O efeito mais imediato do PIX é em relação às transferências bancárias. Além de serem facilitadas, pela praticidade de trocar dinheiro apenas com a chave do recebedor em mãos, a velocidade e gratuidade da transação são diferenciais.
+
+DOCs e TEDs só podem ser realizadas em horário comercial, em dias de semana. Podem demorar até o dia útil seguinte para serem concluídas. Já o PIX está disponível a qualquer momento e termina a operação em até 10 segundos.
+
+    Qual a diferença entre o PIX, o DOC e a TED?
+
+Mais adiante, será mais comum pagar por compras com o novo sistema. Depois de um período de adaptação, lojistas devem adotar o recurso também pela questão de velocidade da transação, mas em especial pela redução de custos no negócio. As taxas cobradas de pessoas jurídicas pelo uso do PIX serão menores do que operações com cartões de débito e crédito tradicionais.
+
+De acordo com Breno Lobo, chefe da divisão no departamento de competição do BC, quase 70% das transações financeiras são realizadas com dinheiro vivo no Brasil. Em um horizonte de 10 anos de funcionamento do PIX, a expectativa é que esse número diminua em 10 pontos percentuais.
+PIX: os cuidados com a segurança do novo sistema de pagamento instantâneo criado pelo BC
+
+PIX: os cuidados com a segurança do novo sistema de pagamento instantâneo criado pelo BC
+
+Quem pode usar o PIX
+
+Todas as pessoas e empresas que tiverem contas contas correntes em instituições financeiras do país. As fintechs também podem oferecer o serviço, mas apenas bancos maiores têm obrigação de fazê-lo. Até 22 de outubro, 762 instituições haviam se cadastrado, de acordo com o BC (veja aqui a lista de participantes).
+
+Para as pessoas físicas, antes de usar o serviço é preciso cadastrar uma Chave PIX - uma 'identificação' no sistema.
+
+Usando o PIX
+
+O usuário poderá fazer um PIX quando for fazer uma transferência ou pagamento. Só é possível fazer um PIX para outro usuário do sistema.
+
+O uso poderá ser feito das seguintes formas:
+
+    Pela "chave de endereçamento" – e-mail, números de CPF ou CNPJ, número de celular ou código de números e letras aleatório chamado EVP;
+    Por um link gerado pelo celular ou;
+    Por leitura de QR Code.
+
+O pagador poderá fazer a operação inserindo a chave do recebedor, usando um link gerado pelo celular ou fazendo a leitura de QR Code. No comércio, por exemplo, o vendedor poderá gerar um QR Code, que o comprador vai 'ler' e pagar diretamente.
+
+Por enquanto, os pagamentos dependem de internet para serem realizados. Está prevista para 2021 uma forma de pagamento offline. Futuramente também será implementado também o "saque PIX", em que o recebedor poderá fazer saques em redes varejistas.
+
+Segurança
+
+Como a tecnologia é instantânea, o Banco Central afirma que o PIX requer segurança redobrada para não ser suscetível a fraudes.
+
+Além de contar com o sistema de segurança da própria entidade, em setembro o Banco Central revisou uma regra sobre restituição de valores transferidos por suspeita de fraude. Se houver algum comprovação de crime, será possível fazer reembolso sem autorização da pessoa que recebeu o depósito.
+
+O lançamento do sistema, no entanto, foi usado por golpistas para roubar dados de clientes. Com o início do cadastramento das chaves, ainda em outubro, os golpistas aproveitaram que bancos e financeiras sugerem que os clientes registrem-se no serviço, para ter acesso às contas das vítimas.
+
+Criminosos já tentam aproveitar interesse da população pelo PIX para aplicar golpes
+
+Fase de testes
+
+No dia 3, o Banco Central iniciou uma fase de testes para captar possíveis falhas antes da estreia do novo sistema. Não foram encontradas vulnerabilidades graves e a expectativa é que a inauguração ocorra sem percalços.
+
+No período, as instituições financeiras habilitadas puderam dar acesso ao PIX a até 5% dos clientes cadastrados. Ao longo de quase duas semanas, até a última sexta-feira, foram realizadas mais de 820 mil transações, que movimentaram R$ 320 milhões.
+
+    Diretor do BC vê 'sucesso estrondoso' em período de testes do PIX
+
+O BC não descarta que alguma intercorrência possa acontecer nesta segunda-feira. Durante os testes, foram identificados alguns problemas de conexão entre o sistema do BC e das instituições financeiras — nada que inviabilize a utilização do PIX, segundo a instituição.
+
+"Quem eventualmente tiver uma experiência que não for bem sucedida, tente de novo mais tarde. Espere um dia para tentar novamente. As coisas vão se ajeitando com o decorrer do tempo", disse Breno Lobo, do BC, ao podcast de Educação Financeira do G1.

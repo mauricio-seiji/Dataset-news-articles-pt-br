@@ -1,0 +1,39 @@
+A invenção que permite converter água do mar em água potável em apenas meia hora, de forma sustentável
+
+Uma equipe internacional de pesquisa desenvolveu uma tecnologia pioneira que pode tornar grandes volumes de água do mar seguros para beber em menos de 30 minutos.
+
+Com uso de energia solar, este avanço tecnológico pode fornecer água potável a milhões de pessoas em todo o mundo usando energia de forma mais eficiente do que as práticas atuais de dessalinização, diz um comunicado da Universidade Monash, com sede em Melbourne, Austrália.
+
+E "as comunidades remotas poderiam se beneficiar mais", disse o líder do projeto, professor Huanting Wang, à BBC Mundo.
+Como funciona?
+
+O filtro projetado pode gerar centenas de litros de água potável por dia e requer apenas luz solar direta para purificar, tornando o processo energeticamente eficiente, de baixo custo e sustentável.
+
+Compostos organometálicos (MOF) — íons metálicos que formam um material cristalino — são usados ​​para fabricar o filtro.
+
+Durante o processo de dessalinização, o filtro, que leva o nome de PSP-MIL-53, primeiro atrai e retém moléculas dos sais da água e é então colocado sob a luz do sol para regenerar o sal. Esse processo leva menos de quatro minutos, e então o filtro pode atrair o sal da água novamente.
+
+O filtro PSP-MIL-53 ainda não está disponível em massa
+Dessalinização e riscos para a saúde
+
+A Organização Mundial de Saúde sugere que a água potável de boa qualidade deve ter um sólido dissolvido total (TDS) de menos de 600 miligramas por litro (mg/L).
+
+Os pesquisadores conseguiram atingir um TDS de menos de 500 mg/L em apenas meia hora. Este processo foi capaz de filtrar partículas nocivas da água e gerar 139,5 litros de água limpa por quilo de MOF por dia.
+
+O professor Wang, do Departamento de Engenharia Química da Monash University, defende a dessalinização como uma opção viável para resolver a falta de água no mundo.
+
+"Devido à disponibilidade de água do mar e água salobra — aquela que tem mais sais dissolvidos do que a água doce, mas menos do que a água do mar —, como os processos de dessalinização são confiáveis, a água tratada pode ser integrada aos sistemas aquáticos com riscos mínimos para a saúde ", diz Wang.
+
+O processos de dessalinização disponíveis hoje consomem muita energia ou muitos produtos químicos
+
+"Mas os processos de dessalinização térmica evaporativa e outras tecnologias, como osmose reversa — que usa uma membrana semipermeável para remover íons, moléculas e partículas maiores — têm uma série de desvantagens, incluindo alto consumo de energia e o uso de produtos químicos na limpeza e descloração de membranas ", alerta.
+
+Por causa de seu baixo consumo de energia e sem necessidade de produtos químicos durante o processo, essa nova tecnologia de luz solar pode fazer parte de futuras soluções de água limpa, diz Wang.
+
+"A energia solar para filtragem é usada há muito tempo, onde a água evapora e se condensa para produzir água doce. Mas leva muitas horas para produzir água suficiente para uso doméstico. Usamos a luz solar para reciclar nosso material, e leva apenas alguns minutos ", disse ele à BBC Mundo.
+
+Questionado sobre o custo desse novo aparelho, o professor disse que ainda há um longo caminho a percorrer para torná-lo acessível à população.
+
+"O material sintetizado em laboratório não é barato. O custo de sua produção deve diminuir muito quando for fabricado em larga escala", afirma.
+
+"Esperamos que o material esteja amplamente disponível e acessível após mais pesquisa e desenvolvimento", conclui.

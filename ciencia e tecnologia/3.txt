@@ -1,0 +1,23 @@
+Document AI: Google lança plataforma de análise de documento com IA
+
+Plataforma na nuvem utiliza inteligência artificial para fazer o processamento de documentos e transformá-los em dados estruturados
+
+O Google lançou na última terça-feira (04) o Document AI (DocAI), uma plataforma que faz o processamento de documentos hospedados no Google Cloud. O Document AI utiliza inteligência artificial (IA ou AI em inglês) para fazer a leitura de documentos digitais transformando o conteúdo dos arquivos em uma rede de dados que pode ser usada posteriormente para agilizar processos internos nas empresas.  
+
+De acordo com o gerente de produto do Google, Lewis Liu, e o gerente de marketing de produto, Yang Liang, a plataforma deve beneficiar as companhias que precisam extrair manualmente dados de documentos complexos em grande escala, afinal a proposta do DocAI é otimizar e agilizar esse processo de extração de dados.
+
+Como funciona o Document AI
+Um relatório divulgado pela IDC constatou que as empresas americanas chegam a desperdiçar US$ 8 bilhões com o gerenciamento de documentos. Segundo uma pesquisa do Learn Ademero as companhias podem gastar em média US $ 20 para arquivar e armazenar um único documento. E apenas 18 % delas se consideram “paperless”, ou seja, utilizam menos papel na rotina de trabalho.
+
+A plataforma Document AI do Google promete resolver esses problemas. A proposta da empresa é fornecer ferramentas e soluções por meio de uma API unificada, oferecendo suporte para criação e personalização de fluxos de trabalho e processamento de documentos. 
+
+Os algoritmos do DocAI podem classificar informações como endereços, números de contas, assinaturas, moeda, data de vencimento da fatura, extrair dados como nomes de fornecedores e outras condições de pagamento. 
+
+Os analisadores gerais, como reconhecimento ótico de caracteres, analisador de formulários e divisor de documentos, já estão disponíveis na plataforma Document AI. Já o acesso aos analisadores W9, 1040, W2, 1099-MISC, 1003, fatura e recibos deve ser solicitado pelo cliente. 
+
+“Transformar documentos em dados estruturados aumenta a velocidade de tomada de decisão para as empresas, revelando valor de negócio mensurável e ajudando a desenvolver melhores experiências para os clientes.”
+
+Lewis Liu e Yang Liang, gerentes de produto e de marketing de produto no Google
+De acordo com o Google, a extração de dados do DocAI ficou mais fácil, pois os analisadores da plataforma agora utilizam taxonomia predefinida do Google Cloud, sem a necessidade de mapear e treinar dados adicionais. Ainda de acordo com a empresa, eles estão trabalhando em novos recursos para a o Document AI.
+
+O lançamento da plataforma Document AI aconteceu após o anuncio do Lending DocAI, um produto do Google Cloud para o setor de hipotecas que promete oferecer precisão para documentos de empréstimos e processamentos.

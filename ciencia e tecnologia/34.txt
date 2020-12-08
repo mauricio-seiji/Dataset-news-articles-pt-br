@@ -1,0 +1,20 @@
+NVIDIA quer melhorar videochamadas com Inteligência Artificia
+
+A NVIDIA lançou, nesta segunda-feira (05), um conjunto de ferramentas baseadas em inteligência artificial que promete melhorar a experiência de videochamadas. A novidade, batizada de "NVIDIA Maxine Plataform", foi anunciada através de um vídeo no YouTube publicado pelo canal oficial da empresa.
+
+Entre as melhorias demonstradas pela NVIDIA estão a “correção” do olhar, o que vai permitir que o interlocutor mantenha o contato visual com a câmera; super resolução; cancelamento de ruídos do ambiente; iluminação facial; troca das imagens de fundo; substituição da imagem do usuário por avatares; tradução de idiomas em tempo real, etc.
+
+“Videoconferências agora fazem parte da vida cotidiana, ajudando milhões de pessoas a trabalhar, aprender e se divertir, e até mesmo a ver o médico”, disse o vice-presidente e general manager de Accelerated Computing da empresa, Ian Buck.
+
+Dados processados em nuvem
+
+
+No lançamento, a desenvolvedora destacou que os dados são processados em nuvem e, portanto, permitem que os usuários finais utilizem os recursos sem a necessidade de instalarem nenhum hardware especializado.
+
+“NVIDIA Maxine integra nossos recursos mais avançados de vídeo, áudio e IA de conversação para trazer inovadora eficiência e novos recursos para as plataformas que estão nos mantendo todos conectados", explicou Buck.
+
+Consumo de dados reduzido
+a NVIDIA/Divulgação 
+Além de todas as funções já citadas, a Maxine Plataform ainda oferece uma compressão de vídeo que pode reduzir a largura de banda necessária para chamadas em 90% em relação à compressão H.264. Como resultado, as chamadas de vídeo vão consumir menos dados.
+
+Segundo a empresa, desenvolvedores de IA, startups, seus parceiros de software e marcas de aplicativos de videochamada já podem se inscrever no site da empresa para acesso antecipado ao Maxine Plataform.

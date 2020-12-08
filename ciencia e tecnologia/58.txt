@@ -1,0 +1,29 @@
+IA ajuda a construir a nova geração de roupas espaciais
+
+Há alguns meses, a NASA apresentou uma nova geração de roupas espaciais, que serão utilizadas por astronautas durante a missão de retorno à Lua em 2024. Uma vez que os planos da agência incluem a presença permanente de humanos no satélite natural da Terra, é preciso que seus trajes contem com a mais alta tecnologia disponível atualmente. Afinal, passar muito tempo em um ambiente completamente diferente de nossa superfície exigirá facilidade nas ações — e a inteligência artificial fará parte desse processo.
+
+Diversos ajustes foram realizados no que foi considerada a maior atualização em 40 anos. Com a novidade, será possível se movimentar, trocar componentes e até mesmo vestir e tirar tudo de maneira mais simples. O tempo para aplicar reparos é outro diferencial, com intervalo de meses. Entretanto, as maiores implementações aconteceram no sistema portátil de suporte à vida do xEMU, uma espécie de mochila que transforma o traje em uma verdadeira espaçonave pessoal desenvolvida com a ajuda de IA.
+
+xEMU, sistema portátil de suporte à vida, foi desenvolvido com ajuda de inteligência artificial.
+
+O equipamento é responsável pelo gerenciamento de energia, comunicação, suprimento de oxigênio e regulação da temperatura da roupa. Com essas funcionalidades, os desbravadores podem se dedicar tranquilamente a tarefas que envolvam a construção de instalações. Por isso, todo e qualquer detalhe deve ser cuidadosamente avaliado.
+
+Para trazer o xEMU à luz, centenas de engenheiros trabalharam no desenvolvimento da solução, focados, principalmente, na definição de prioridades. Era preciso que o sistema fosse seguro, leve e forte o suficiente para enfrentar as condições do lançamento e, claro, do espaço. “Trata-se de um desafio realmente grande”, afirmou Jesse Craft, designer sênior da Jacobs (empresa responsável pela construção do sistema).
+
+Segurança de astronautas depende diretamente do funcionamento do equipamento.
+
+Corrida contra o tempo
+Profissionais que atuam no segmento espacial têm de descobrir a melhor maneira de colocar mais equipamentos em espaços menores, mas atingir essa otimização é algo bem complexo. Para complicar a situação, a NASA, tendo o objetivo de realizar a viagem em tão pouco tempo, acabou apresentando um período curto para tais discussões. Por isso, a equipe de Craft optou por utilizar um software de IA nos processos que é capaz de criar componentes com agilidade.
+
+Jesse Coors-Blankenship, vice-presidente de tecnologia da PTC, criadora do programa, explicou: “Em nossa concepção, a inteligência artificial é capaz de fazer as coisas de maneira mais rápida e eficaz do que um humano treinado. Algumas dessas inovações já fazem parte do cotidiano de engenheiros, como simulação estrutural e otimização. Com a IA, podemos fazer mais".
+
+Pouco tempo para desenvolvimento de soluções impulsionou o uso de IA.
+
+Esse tipo de abordagem é conhecido como design generativo. Basicamente, é preciso alimentar o software com um conjunto de requisitos — como o tamanho máximo de um componente, o peso que ele deve suportar e as temperaturas a que será exposto — para permitir aos algoritmos descobrirem o restante. No caso da PTC, diversas explorações são realizadas, como a de redes adversárias generativas e a de algoritmos genéticos.
+
+Enquanto na primeira dois algoritmos de machine learning competem entre si para ver qual atinge o melhor resultado, a segunda aplica uma espécie de seleção natural com aprimoramento constante. “O processo iterativo das máquinas chega a ser de 100 a mil vezes mais rápido do que o humano, chegando ao resultado ideal a partir dos padrões definidos”, detalhou Craft.
+
+Apenas o começo
+O projeto está em sua fase inicial, envolvendo componentes mais básicos, logo não se trata, ainda, de algo que pudesse causar qualquer falha catastrófica. Dentro de nosso planeta, tecnologias do tipo já são utilizadas para chassis de carros e cadeiras, poupando recursos e qualquer peso que possa ser eliminado. Agora, elas vão ao espaço.
+
+A parte humana, claro, é fundamental: “Utilizamos IA para nos inspirarmos. Temos bases para ângulos retos, superfícies planas e dimensões redondas, mas ela desafia preconceitos e nos permite a ver soluções inéditas”, finalizou o designer.

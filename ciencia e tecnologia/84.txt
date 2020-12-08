@@ -1,0 +1,70 @@
+Mac Pro: O que tem o novo computador da Apple que custa US$ 65 mil
+
+O novo computador Mac Pro da Apple pode ser usado, é claro, para responder e-mails ou assistir a vídeos no YouTube, mas seria como dirigir um carro de Fórmula 1 para ir ao supermercado.
+
+O computador top de linha da empresa de Cupertino, na Califórnia, chegou às lojas nesta semana nos Estados Unidos.
+
+A versão mais básica está sendo vendida por US$ 5.999 (cerca de R$ 24 mil), mas pode sair por até US$ 65 mil (aproximadamente de R$ 267 mil) na configuração mais avançada disponível.
+
+O Mac Pro ainda não está à venda no Brasil — mas o site da Apple indica que vai custar a partir de R$ 55.999.
+
+A empresa deixa claro que não é um computador desenvolvido para o usuário comum, mas sim para "uso profissional", como design gráfico, edição de vídeo ou engenharia de software.
+
+"Ele foi criado para permitir muitos tipos de usos e oferecer possibilidades quase ilimitadas de personalização", afirmou John Ive, chefe de design da Apple ao apresentar o novo Mac Pro.
+
+Este computador vem embutido em uma torre de 18 kg (sem a adição de placas adicionais), o que torna desejável que sua "estrutura de aço inoxidável de alta precisão" tenha rodas.
+
+Se o usuário quiser adicionar o acessório, custa US$ 400.
+
+O Mac Pro pesa 18 kg, mas a Apple oferece a um custo adicional de US$ 400 quatro rodas para facilitar seu deslocamento
+
+Mas esse é o acessório mais barato de uma série de configurações que tem preço base de US$ 5.999.
+
+Por esse valor, você pode ter acesso a: um processador Xeon de 8 núcleos, 32 gigabytes (GB) de memória RAM, chip gráfico Radeon Pro de 8 GB, 256 GB de espaço SSD (memória de estado sólido que substitui o disco rígido), suporte, teclado e mouse.
+
+O novo monitor Pro Display XDR desenvolvido especialmente para este dispositivo não está incluído, no entanto, neste valor — na verdade, nenhum monitor está.
+Potência máxima
+
+Dan Riccio, vice-presidente sênior de engenharia de hardware, explica que a capacidade máxima de processamento do novo Mac Pro é gerada por um Xeon de 28 núcleos — e, para isso, é necessário adicionar US$ 7 mil ao preço inicial.
+
+Enquanto a maioria dos laptops básicos no mercado tem entre 4 GB ou 8 GB de memória RAM (o hardware que ajuda a carregar programas mais rapidamente), este novo computador da Apple pode ter quase 200 vezes mais: 1,5 terabytes (TB) pelo valor de US$ 25 mil adicionais.
+
+O computador tem três dissipadores grandes de calor para evitar superaquecimento
+
+Para dar conta das produções gráficas mais pesadas, este computador foi desenvolvido com uma nova arquitetura chamada Mac Pro Expansion, capaz de suportar duas placas aceleradoras Radeon Pro Vega II Duo por US$ 10.800.
+
+"É o chip gráfico mais poderoso do mundo", diz Riccio.
+
+A conta já está chegando perto de US$ 49 mil — mas tem mais.
+
+Se os 256 GB de espaço SSD não forem suficientes, por US$ 1,4 mil você pode fazer um upgrade para uma placa SSD de 4TB.
+
+Riccio explica que, para este computador, foi criado o Apple Afterburner, uma placa aceleradora programável que melhora o desempenho dos vídeos. Para adicionar, você deve somar mais US$ 2 mil.
+
+Além disso, você pode querer adquirir as rodas (US$ 400), um mousepad especial (US$ 149), um software de edição de vídeo especializado, Final Cut Pro X (US$ 300), e outro para edição de música, Logic Pro X (US$ 200).
+
+O gabinete do Mac Pro é removível para que o usuário possa instalar e desinstalar o hardware a qualquer momento
+
+Até agora, o valor total deste supercomputador nos Estados Unidos, excluindo impostos, está em US$ 53.247,98.
+E o monitor?
+
+Para ver o que o Mac Pro é capaz de fazer, é necessário um monitor — e a Apple recomenda usar o mais avançado que já desenvolveu.
+
+O Pro Display XDR tem uma tela plana de 32 polegadas que suporta vídeos em resolução 6K.
+
+"Graças a um sistema complexo de lentes especialmente projetadas e refletores geometricamente otimizados, esse sistema literalmente modula e controla a luz, para obter um brilho sem precedentes na indústria", explica Riccio.
+
+Existem duas versões: uma padrão e outra com "vidro de nanotextura". Esta última custa US$ 5.999.
+
+O Pro Display XDR possui uma resolução de 20 milhões de pixels
+
+O suporte do monitor também pode ser substituído pelo Pro Stand, um braço que se ajusta magneticamente para se obter o ângulo e a altura adequados. Além disso, pode ser girado vertical ou horizontalmente, e a imagem se adapta, como acontece no celular. Custa US$ 999.
+
+Se por acaso, você quiser ter um suporte de parede para o monitor, deve desembolsar mais US$ 199.
+O preço final
+
+Tudo isso sai por um total de US$ 60.444,98, sem a inclusão de seguros ou outros produtos, como cabos, adaptadores, equipamentos de som ou contas de espaço na nuvem.
+
+No caso dos Estados Unidos, é necessário adicionar ainda os impostos, que na Flórida seria o equivalente a US$ 4.231,15, o que aumenta o preço para quase US$ 65 mil.
+
+Mas o frete é grátis.

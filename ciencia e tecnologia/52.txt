@@ -1,0 +1,166 @@
+O mistério das vacinas que têm benefícios muito além dos esperados
+
+Peter Aaby balança a cabeça, como se ainda não conseguisse acreditar. "Na verdade, foi o começo de tudo. Algo muito estranho aconteceu", diz ele.
+
+Aaby está falando comigo via Skype de sua terra-natal, a Dinamarca. Mas ele passou a maior parte das últimas quatro décadas na Guiné-Bissau, um país pequeno e pobre da África Ocidental, marcado por um passado colonial conturbado e uma história recente de sucessivos golpes de Estado.
+
+Ele se mudou para lá em 1978 para fundar uma instituição sem fins lucrativos, o Projeto Saúde Bandim.
+
+Na época, não havia um programa nacional de vacinação contra o sarampo, então, após um surto particularmente devastador, a equipe decidiu concentrar seus esforços em vacinar as crianças locais.
+
+Cerca de um ano após o início das vacinações, eles fizeram uma descoberta extraordinária: aqueles que haviam sido vacinados contra o sarampo tinham 50% menos probabilidade de morrer do que aqueles que não foram. "Foi impressionante", diz Aaby.
+
+Mas isso não se deve aos motivos que você pode imaginar a princípio.
+
+O sarampo nunca chegou a ser responsável por metade das mortes entre crianças da Guiné-Bissau. Com base na proporção dos que morriam originalmente da doença, a vacina deveria ter sido muito menos benéfica do que foi. Os números não batiam.
+
+"Estávamos nos perguntando 'Como isso pode acontecer?'", diz Aaby.
+
+Nos estudos em grande escala que se seguiram, descobriu-se que a vacinação estava reduzindo em um terço as chances de crianças morrerem, enquanto apenas 4% desse declínio foi explicado pela prevenção do sarampo.
+
+Este é o poder de um fenômeno misterioso que Aaby chamou de "efeitos não específicos" das vacinas.
+
+Acidentes fortuitos
+Por mais de um século, certas vacinas têm nos fornecido uma espécie de proteção adicional que vai muito além do que se pretendia.
+
+Evidências de estudos na Guiné-Bissau indicam que as vacinas frequentemente conferem proteção contra outras doenças
+
+Esses efeitos misteriosos não apenas nos protegem na infância, mas também podem reduzir nosso risco de morrer em todas as outras fases da vida.
+
+Uma pesquisa na Guiné-Bissau descobriu que as pessoas que tinham tomado vacina contra a varíola tinham até 80% mais chances de ainda estarem vivas cerca de três anos após o início do estudo.
+
+Na Dinamarca, os cientistas descobriram que aqueles que receberam a vacina contra a tuberculose na infância tinham 42% menos probabilidade de morrer de causas naturais até os 45 anos.
+
+Isso também ocorre entre cães: um experimento na África do Sul descobriu que aqueles que foram vacinados contra a raiva tinham taxas de sobrevivência muito mais altas, além do que seria esperado da imunidade somente à raiva.
+
+Outros acidentes fortuitos incluem nos proteger de patógenos que não estão relacionados com seu alvo, reduzir a gravidade das alergias, combater certos tipos de câncer e ajudar a prevenir o mal de Alzheimer.
+
+A vacina contra a tuberculose está atualmente sendo testada contra a covid-19, embora os micro-organismos por trás das duas doenças sejam totalmente diferentes: um é uma bactéria, o outro, um vírus. E os dois estão separados por 3,4 bilhões de anos de evolução.
+
+Apesar de décadas de pesquisa, esses efeitos não são totalmente compreendidos. Mas até que os entendamos, os cientistas relutam em aplicá-los em nosso proveito, por isso há uma corrida para descobrir o que está acontecendo.
+
+Os benefícios da BCG
+Embora a existência de "efeitos não específicos" não estivesse bem estabelecida até o trabalho de Aaby na década de 1980, os cientistas suspeitavam há muito tempo que algo estranho acontece quando somos vacinados.
+
+Veja por exemplo a tuberculose, um dos inimigos mais antigos da humanidade.
+
+Convivemos com esse vilão bacteriano há pelo menos 40 mil anos e, na grande maioria de nossa história, ter essa doença foi uma sentença de morte.
+
+A bactéria foi encontrada em um terço de todas as múmias egípcias antigas, e podemos ter passado ela para os neandertais.
+
+Desde o início do século 20, ela ceifou a vida de dezenas de milhões de pessoas, incluindo o escritor George Orwell, a ex-primeira dama americana Eleanor Roosevelt e o romancista Franz Kafka.
+
+Isso mudou quando os bacteriologistas franceses Albert Calmette e Camille Guérin inventaram a vacina BCG, que foi feita alterando gradativamente a versão da bactéria encontrada nas vacas.
+
+A vacina foi administrada pela primeira vez a uma criança em 1921 e, na década de 1950, ficou claro que jogo tinha virado. A vacinação é considerada de 70% a 80% eficaz na prevenção das formas mais graves da doença.
+
+Os cientistas notaram ainda que a BCG estava associada a uma queda dramática no número de crianças que morriam nos primeiros meses de vida.
+
+Isso sempre foi chocante, porque era improvável que fosse por causa da vacina que previne casos graves de tuberculose. A doença geralmente leva um tempo para se desenvolver.
+
+"Caiu quase 70%", diz Mihai Netea, imunologista da Universidade Radboud, na Holanda. "Portanto, desde o início, os efeitos benéficos foram substanciais."
+
+A tuberculose foi responsável pela morte de dezenas de milhões de pessoas
+
+Desde então, ficou claro que a BCG não estava apenas associada a uma mortalidade mais baixa, mas que fornecia proteção contra uma ampla gama de infecções não relacionadas à tuberculose, como gripe, septicemia e herpes.
+
+Treinamento imunológico
+Uma possível explicação para a capacidade de certas vacinas de nos proteger de micro-organismos diferentes daqueles que deveriam ter como alvo é que eles compartilham antígenos, moléculas usadas pelo sistema imunológico para identificar invasores.
+
+Por exemplo, a vacina BCG pode introduzir no corpo uma proteína específica que também é encontrada em outra bactéria ou vírus.
+
+Mas quando você considera a enorme diversidade de outras infecções que essa vacina em particular pode prevenir, parece improvável que todos esses micro-organismos tenham os mesmos antígenos.
+
+Outra ideia é que as vacinas estão inadvertidamente fornecendo ao sistema imunológico um tipo de treinamento mais geral.
+
+Estudos recentes descobriram evidências disso, incluindo um grupo de adultos jovens que recebeu a BCG e depois foi exposto a outros patógenos além da tuberculose e teve um tipo diferente de resposta imunológica que aqueles que não foram vacinados.
+
+A verdadeira surpresa é que isso sugere que esses estranhos efeitos benéficos não se devem ao sistema imunológico adaptativo, o tipo de reação imune que vacinas são projetadas para desencadear, envolvendo células que aprendem a caçar patógenos específicos, mas ao sistema imunológico inato.
+
+Isso é incomum, porque essa defesa geral mais primitiva não é pensada para ser capaz de evoluir e se adaptar da mesma maneira.
+
+"A vacina BCG está reprogramando o DNA do sistema imunológico", diz Aaby. "Então, isso significa que você criou imunidade especificamente contra a tuberculose, mas também treinou o sistema imunológico."
+
+Isso pode explicar por que a vacina também pode proteger as pessoas de certos tipos de câncer e demência, uma vez que o sistema imunológico desempenha um papel importante no desenvolvimento de ambos.
+
+Nossas células imunológicas estão constantemente vasculhando o corpo em busca de tecidos mutantes para destruir, e o câncer é significativamente mais comum em pessoas que tomam drogas imunossupressoras.
+
+Enquanto isso, há muito se acredita que uma inflamação persistente está envolvida no mal de Alzheimer, que tem ligações com doenças imunológicas, como a doença de Crohn.
+
+Surpreendentemente, a BCG é agora um tratamento padrão para o câncer de bexiga e uma das terapias mais bem-sucedidas desse tipo.
+
+Pacientes com câncer de bexiga que foram tratados com a vacina são menos suscetíveis ao Alzheimer, e agora testes clínicos verificam se reduz isso a incidência de placas (aglomerados anormais de proteínas ligadas à doença) em pessoas saudáveis.
+
+Aaby explica que, embora uma dose de vacina seja benéfica, quanto mais doses uma pessoa tomar, mais fortes tendem a ser esses efeitos positivos inexplicáveis.
+
+"De alguma forma, o sistema imunológico reage bem ao ser estimulado", diz ele.
+
+A dose de BCG que muitos de nós tomamos nos primeiros meses de vida essencialmente treina nosso sistema imunológico
+
+Na verdade, não são apenas as vacinas que parecem ser capazes de fazer isso. Aqueles que foram naturalmente infectados por patógenos como o sarampo têm melhores perspectivas de sobrevivência a longo prazo do que aqueles que nunca foram infectados.
+
+Não está totalmente claro por que isso acontece, mas, novamente, acredita-se que seja devido ao treinamento imunológico que o corpo recebe, o que o ajuda a lutar contra outras doenças.
+
+Estranhamente, embora já se acredite que esses benefícios ocultos salvam milhões de vidas todos os anos, Aaby diz que seu potencial não está sendo maximizado. "Prefiro dizer o contrário", diz ele.
+
+Por um lado, eles não são levados em consideração atualmente ao projetar programas de vacinação. Isso é problemático, porque nem todas as vacinas são igualmente capazes de gerá-los - e algumas podem ter o efeito oposto.
+
+Garotas vs. garotos
+Um exemplo é a vacina contra o sarampo. Quando Aaby e sua equipe introduziram um novo tipo dela na Guiné-Bissau na década de 1990, eles ficaram horrorizados ao descobrir que isso dobrou a taxa de mortalidade de meninas, embora não de meninos. Anos depois, eles começaram a entender o porquê.
+
+Embora os efeitos não específicos estejam associados a uma ampla variedade de vacinas, desde coqueluche até poliomielite, varíola, febre amarela e gripe, eles funcionam melhor com aquelas que contêm vírus vivos.
+
+Essas vacinas "vivas" são feitas com patógenos que ainda são capazes de fazer cópias de si mesmos e enfraquecendo-os para que não sejam tão prejudiciais.
+
+As "vacinas inativadas", por outro lado, envolvem bactérias ou vírus que foram "mortos" com calor ou produtos químicos e, portanto, não podem se reproduzir.
+
+Como as vacinas vivas trazem benefícios ocultos e as inativadas não, a ordem em que são administradas é importante.
+
+Existem agora evidências crescentes de que, se as crianças recebem uma vacina inativada depois de uma viva, isso cancela alguns dos benefícios que seriam proporcionados.
+
+Antes da aplicação da nova vacina contra o sarampo na Guiné-Bissau, era normal receber uma dose da vacina inativada contra difteria, tosse convulsa e tétano (DTP), seguida da vacina viva contra o sarampo aos 9 meses.
+
+Mas a nova vacina foi dada aos quatro meses, o que significa que a DTP foi dada por depois. (Outras vacinas inativadas também podem prejudicar o efeito benéfico se forem administradas fora da sequência, como a poliomielite.)
+
+Embora os cientistas agora estejam cientes da importância vital da ordem em que as vacinas são administradas, Aaby diz que isso ainda não é levado em consideração rotineiramente, de modo que muitas crianças podem não estar se beneficiando como poderiam.
+
+Não está claro por que a sequência das vacinas só importava em meninas, em parte porque houve muito pouca pesquisa sobre como os sistemas imunológicos masculino e feminino são diferentes.
+
+"De alguma forma, a imunologia tem sido cega para o sexo", diz Aaby. "Se você ler pesquisas sobre mortalidade em países de baixa renda, não existem meninos e meninas, existem crianças. Então, pensamos que eles são iguais, mas, definitivamente, não são."
+
+Mesmo que a varíola tenha sido erradicada na natureza, sua vacina ainda pode trazer outros benefícios à saúde
+
+Pesquisas mostraram diversas vezes que as mulheres têm um sistema imunológico mais forte do que os homens.
+
+Elas são menos propensas a adoecer gravemente por causa de infecções, menos suscetíveis ao câncer e significativamente menos sujeitas a reações exageradas do sistema imunológico, como no caso de doenças autoimunes e alergias.
+
+As mulheres também tendem a apresentar respostas imunológicas mais fortes às vacinas.
+
+"O sistema imunológico feminino deve ser muito diferente pela razão óbvia de que elas devem ser capazes de engravidar e não rejeitar o feto. Portanto, é necessário ter um sistema imunológico que tenha um mecanismo mais complexo. E isso é verdade desde o nascimento", diz Aaby.
+
+Se os efeitos positivos não intencionais das vacinas (e a melhor forma de aproveitá-los) fossem levados em consideração ao planejar programas de vacinação, estima-se que mais 1,1 milhão de mortes poderiam ser evitadas a cada ano.
+
+Da mesma forma, as consequências de ignorá-los podem ser catastróficas.
+
+O paradoxo da erradicação
+Em 1980, a Assembleia Mundial da Saúde anunciou que a varíola havia sido erradicada, após uma longa e persistente campanha global para vacinar crianças.
+
+Mas, assim que o vírus foi extinto, outra coisa também desapareceu: as vacinas. No Reino Unido, as crianças nascidas depois de 1971 não as receberam, e isso pode ter sérias implicações para sua saúde.
+
+O Afeganistão é um dos poucos lugares onde a poliomielite ainda não foi erradicada
+
+"Tanto na Guiné-Bissau quanto na Dinamarca, a vacina contra a varíola foi associada a um efeito benéfico muito forte. Mas, quando removemos a vacina, não havia um único estudo sobre o que isso pode causar", diz Aaby.
+
+Neste momento, o mundo está à beira de outra vitória. A poliomielite tem sido erradicada em quase todos os cantos do planeta.
+
+Foi declarado no início deste mês que a África está oficialmente livre do vírus, que, agora só é encontrado em pequenos bolsões do Afeganistão e do Paquistão.
+
+Isso levou à preocupação sobre o que pode vir a seguir. Como a vacina contra a varíola, a vacina contra a poliomielite é acompanhada por uma grande dose de efeitos não específicos.
+
+Por exemplo, em 2004, foi parcialmente creditado a ela uma redução da mortalidade infantil de cerca de 67% na Guiné-Bissau, apesar do fato de que a poliomielite já havia sido quase completamente erradicada por lá na época.
+
+"Pode ser que, ao erradicar a doença, paremos de tomar a vacina. E, achando que estamos fazendo algo bom, estamos na verdade aumentando a mortalidade", diz Aaby.
+
+Embora o movimento antivacinas venha falsamente levantando suspeitas contra as técnicas de imunização há décadas, parece que, ironicamente, o único segredo das vacinas sejam que elas são melhores para nós do que qualquer um jamais imaginou.
+
+Talvez seja hora de descobrirmos todo seu potencial, antes que seja tarde demais.

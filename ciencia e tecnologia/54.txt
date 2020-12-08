@@ -1,0 +1,22 @@
+SPOCK, sistema de IA, pode prever colisões de sistemas planetários
+
+Uma tecnologia desenvolvida por um astrofísico da NASA pode revelar o destino de sistemas planetários inteiros com o uso de inteligência artificial. Por meio de uma abordagem inédita de algoritmos chamada SPOCK, trajetórias de corpos celestes espalhados pelo Universo são calculadas em escalas nunca vistas na história, indicando quais permanecerão estáveis e quais colidirão, resultando em sua extinção.
+
+Dado o número de variáveis incluídas em tais cálculos, mesmo soluções robustas sofrem para prever eventos no espaço, chegando a apresentar bilhões de fatores. Por isso, Daniel Tamayo, criador da metodologia, investiu em uma estratégia que delimita a o monitoramento a 10 mil órbitas.
+
+A partir disso, as dinâmicas encontradas alimentam uma técnica de machine learning para continuar a análise, permitindo que resultados sejam atingidos sem, necessariamente, a coleta de mais informações.
+
+Cálculos de órbitas podem indicar quais sistemas permanecerão estáveis.
+
+Tamayo declara que, desde que o primeiro exoplaneta foi descoberto, em 1995, foram identificados mais de 4 mil mundos fora da Terra. Cerca de 700 deles se encontram em sistemas que contêm mais de um exemplar, o que os coloca sob risco iminente de entrarem em choque em algum momento de sua existência. "Não podemos afirmar categoricamente que um sistema será poupado e outro explodirá em breve. Em vez disso, o objetivo é descartar aqueles que já poderiam ter passado por esse processo e que, por isso, não deveriam existir atualmente".
+
+"Assim que tiver eliminado o impossível, o que restar, mesmo improvável, deve ser verdade"
+Combinando modelos de interações e inteligência artificial, com o SPOCK (acrônimo para Stability of Planetary Orbital Configurations Klassifier) é possível eliminar quantidades massivas de configurações orbitais instáveis, descartando cálculos que levariam dezenas de milhares de horas para serem realizados.
+
+Segundo o cientista, com o aprimoramento, essas configurações são determinadas 100 mil vezes mais rápido que as definições encontradas por abordagens tradicionais. "Esse novo método fornecerá um panorama mais claro para as arquiteturas orbitais dos sistemas planetários além do nosso". A novidade, portanto, deixa de lado a força bruta necessária nos estudos, empregada hoje por supercomputadores.
+
+
+"A mudança é um processo essencial a toda a existência".
+
+
+Uma das maiores dificuldades da ciência astronômica era que mesmo revoluções matemáticas como as proporcionadas por astrônomos desde Isaac Newton impossibilitavam previsões hipotéticas. Isso agora pode ser superado; e o SPOCK será capaz, enfim, de determinar quais sistemas terão uma vida longa e próspera.

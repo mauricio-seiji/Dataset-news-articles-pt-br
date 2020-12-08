@@ -1,0 +1,73 @@
+A descoberta sobre o sistema imunológico que pode ajudar a combater todos os tipos de câncer
+
+Achados ainda não foram testados em pacientes, mas têm um 'enorme potencial', afirmam os pesquisadores.
+
+Uma recente descoberta sobre o nosso sistema imunológico pode se tornar uma arma para tratar todos os tipos de câncer.
+
+Uma equipe de cientistas da Universidade de Cardiff, no País de Gales, desenvolveu um método em laboratório que destrói o câncer de próstata, mama, pulmão e outros tipos.
+
+As novidades que têm revolucionado a luta contra o câncer
+Os chips que podem revolucionar a pesquisa médica e diminuir uso de animais de laboratório
+Os achados, divulgados na publicação científica "Nature Immunology", ainda não foram testados em pacientes, mas têm um "enorme potencial", afirmam os pesquisadores.
+
+Para especialistas que não participaram da pesquisa, ainda que o trabalho esteja num estágio inicial, ele é bastante promissor.
+
+O que eles descobriram?
+Nosso sistema imunológico é a defesa natural do corpo contra infecções, mas ele também ataca células cancerosas.
+
+A equipe da Universidade de Cardiff estava em busca de maneiras novas e "não convencionais" de fazer com que o sistema imunológico atacasse naturalmente tumores.
+
+Eles encontraram uma célula-T (ou linfócito T) com um novo tipo de "receptor" que identifica e ataca células cancerosas, ignorando as saudáveis.
+
+A diferença nesta célula imunológica é que ela pode escanear o corpo em busca de ameaças que devem ser eliminadas e atacar uma ampla variedade de cânceres.
+
+
+"Há uma possibilidade de que ele possa tratar todos os pacientes", afirmou o professor Andrew Sewell à BBC. "Antes ninguém acreditava que isso fosse possível."
+
+Como ela funciona?
+As células T têm "receptores" na superfície que permitem a elas "enxergar" em um nível químico.
+
+Os pesquisadores da Universidade de Cardiff descobriram que a célula T e seu receptor podem encontrar e destruir uma gama de células cancerosas no pulmão, na pele, no sangue, no cólon, na mama, nos ossos, na próstata, no ovário, no rim e na coluna cervical.
+
+E fazem isso deixando intocados os tecidos "normais", o modo exato como que isso acontece ainda está sendo pesquisado.
+
+Esse receptor da célula T em particular interage com uma molécula chamada MR1, presente na superfície de todas as células do corpo humano.
+
+Acredita-se que a MR1 seja a responsável por sinalizar ao sistema imunológico o metabolismo disfuncional em curso dentro de uma célula cancerosa.
+
+"Somos os primeiros a descrever a célula T que encontra o MR1 nas células cancerosas — isso não tinha sido feito antes, foi a primeira vez", disse à BBC o pesquisador Garry Dolton.
+
+Por que essa descoberta é relevante?
+
+Terapias com células T já existem e o desenvolvimento de imunoterapias contra o câncer tem sido um dos avanços mais empolgantes nesse campo.
+
+O mais famoso exemplo é o chamado CAR-T, uma droga viva produzida por meio de engenharia genética em células T para procurarem e destruírem o câncer.
+
+O CAR-T pode trazer resultados incríveis que levam alguns pacientes do estágio de doença terminal para a completa remissão.
+
+Essa abordagem é, no entanto, extremamente específica e funciona com apenas um número limitado de cânceres onde há um alvo claro para treinar a "mira" das células T.
+
+E também enfrenta dificuldades em combater "cânceres sólidos" — aqueles que formam tumores em vez de sangue canceroso como a leucemia.
+
+Já os pesquisadores da Universidade de Cardiff afirmam que o receptor da célula T pode levar a um tratamento de câncer "universal".
+
+Mas como isso funciona na prática?
+A ideia é extrair uma amostra de sangue do paciente em tratamento contra o câncer.
+
+As células T seriam extraídas e modificadas geneticamente a fim de reprogramá-las para constituir o receptor que encontra o câncer.
+
+Essas células aperfeiçoadas seriam cultivadas em largas quantidades em laboratório e depois reinseridas no paciente. É o mesmo processo usado na terapia CAR-T.
+
+
+No entanto, essa pesquisa da Universidade de Cardiff foi testada apenas em animais e células em laboratório, e testes em humanos demandam mais etapas de segurança.
+
+O que dizem outros especialistas?
+Lucia Mori e Gennaro De Libero, da Universidade de Basileia, na Suíça, afirmam que essa pesquisa tem um "enorme potencial", mas ainda é cedo para afirmar que ela poderia funcionar para todos os tipos de câncer.
+
+Na terapia celular, linfócitos T do enfermo são reprogramados para reconhecerem as células cancerosas
+
+"Estamos muito empolgados com as funções imunológicas dessa nova população de células T e o uso potencial do receptor na terapia de células tumorais", dizem.
+
+Daniel Davis, professor de imunologia da Universidade de Manchester, na Inglaterra, afirmou que "por ora, ainda é uma pesquisa em estágio bastante inicial e nem perto de se tornar um tratamento real para pacientes".
+
+"Mas não há dúvidas de que é uma descoberta bastante empolgante, tanto para o avanço do nosso conhecimento sobre o sistema imunológico quanto para o desenvolvimento de novos tratamentos."

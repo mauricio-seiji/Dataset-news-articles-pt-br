@@ -1,0 +1,15 @@
+Boston Dynamics venderá 'braço' para cão-robô a partir de 2021
+
+A fabricante de robôs Boston Dynamics confirmou que o modelo Spot, que imita um cachorro, vai ganhar um novo acessório em breve.
+
+Em entrevista ao site TechCrunch, o CEO da companhia, Rob Playter, anunciou o lançamento de "braços" que podem ser controlados remotamente e são capazes de realizar tarefas simples, como pegar objetos e abrir portas.
+
+A operação pode ser feita tanto por um controle próprio do operadora quanto a partir de tarefas autônomas pré-configuradas. A API do produto será liberada, o que significa que desenvolvedores interessados podem melhorar os recursos e adicionais mais habilidades.
+
+O braço móvel do Spot é capaz de realizar tarefas simples.O braço móvel do Spot é capaz de realizar tarefas simples.Fonte:  Boston Dynamics 
+
+Essa adição já era antecipada em vídeos antigos de divulgação do Spot e da versão menor, o Spot Mini, mas não foi confirmada junto com o lançamento do robô.
+
+Por enquanto, não há um preço ou uma janela de tempo para a chegada dos braços robóticos ao Spot. O acessório fica posicionado no topo do modelo, onde ficaria o pescoço, e fica restrito a um único membro. Quando não está em uso, ele fica retraído, como mostra o clipe abaixo.
+
+O Spot é comercializado desde junho de 2020 por US$ 75 mil. De acordo com a companhia, cerca de 260 unidades já foram vendidas até o momento. Junto do modelo tradicional, a Boston Dynamics também anunciou a venda de um modelo Enterprise, que possui uma estação de recarga pronta.

@@ -1,0 +1,13 @@
+Supercomputador vai simular Terra para prever desastres naturais
+
+A multinacional de tecnologia NEC está desenvolvendo um novo supercomputador que irá simular o planeta Terra para prever desastres naturais. O projeto conta com a parceria da Nvidia e foi uma encomenda da Agência Japonesa de Ciência e Tecnologia Marinha e Terrestre (JAMSTEC, na sigla em inglês). Essa será a 4ª geração de supercomputadores da agência com previsão de entrega para março de 2021.
+
+O projeto incluirá os processadores vetoriais SX-Aurora TSUBASA da NEC e GPUs Nvidia A100 Tensor Core, conectados à tecnologia Nvidia Mellanox Infiniband. Em relação ao seu antecessor, esse computador fornecerá um desempenho 15 vezes maior, marcando 19,5 petaflops.
+
+Na prática, isso significa a capacidade de realizar cálculos mais rápidos e em uma escala muito maior sem, no entanto, aumentar o nível de consumo de energia das versões anteriores.
+
+Em linhas gerais, o projeto que foi batizado de "Earth Simulator 4" (Simulador Terrestre 4, na tradução direta) tem como objetivo viabilizar simulações em grande escala que auxiliem autoridades e organizações na preparação contra desastres naturais. Com esta poderosa ferramenta, será possível traçar planos de ação mais eficazes e com mais antecedência.
+
+“O novo sistema se beneficiará de um design de arquitetura múltipla, tornando-o adequado para vários projetos de pesquisa e desenvolvimento no campo das ciências terrestres" explicou Gilad Shainer, vice-presidente sênior de Marketing da Mellanox, empresa recentemente adquirida pela Nvidia.
+
+Temas como recursos marinhos, terremotos e atividades vulcânicas serão estudados e analisados pelo supercomputador. Segundo a empresa, esse projeto terá um impacto significativo na capacidade de salvar vidas caso ocorra um desastre natural.

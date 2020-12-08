@@ -1,0 +1,15 @@
+Microsoft lança ferramenta que detecta deepfake em vídeos
+
+A Microsoft anunciou nesta terça-feira (1º) uma nova ferramenta chamada Video Authenticator, capaz de identificar manipulações em vídeos conhecidas como deepfake. O projeto analisa cada quadro de vídeos e gera uma pontuação de manipulação com uma porcentagem indicando as chances de a mídia ter sido alterada.
+
+O serviço faz parte do Programa de Defesa da Democracia e foi desenvolvido pelo time de P&D da Microsoft Foundation, que tem parcerias com a AI Foundation e usa dados públicos do Face Forensics++. O objetivo da ferramenta é defender a democracia de ameaças alimentadas pela desinformação. O anúncio foi feito pouco antes das eleições presidenciais dos Estados Unidos, que acontecem em 3 de novembro, mas a pretensão é alimentá-la para o uso de longo prazo.
+
+O Video Authenticator poderá exibir uma porcentagem de confiança em tempo real em cada quadro de um vídeo, detectando elementos sutis de edição, como desbotamento de cores e escala de cinza, "que não podem ser detectados pelo olho humano".
+
+Marca d'água digital
+
+A Microsoft sabe que os métodos de criação de deepfakes avançam em sofisticação e que as formas de detecção ainda têm taxas de falha, portanto espera alimentar sua tecnologia e a longo prazo "buscar métodos mais fortes para manter e certificar a autenticidade" de publicações online.
+
+"Existem poucas ferramentas hoje para ajudar a garantir aos leitores que a mídia que estão vendo veio de uma fonte confiável e que não foi alterada", disse a empresa em comunicado. Uma das novas tecnologias é uma extensão para navegador que verifica os certificados e combina os hashes para informar ao leitor se o conteúdo é autêntico ou se foi alterado.
+
+Outro sistema deve permitir aos produtores de conteúdo adicionarem hashes e certificados digitais às mídias, funcionando como uma marca d'água digital localizada nos metadados.

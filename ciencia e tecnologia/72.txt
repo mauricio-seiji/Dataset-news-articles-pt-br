@@ -1,0 +1,63 @@
+Câncer de mama: inteligência artificial bate médicos em diagnósticos
+
+A inteligência artificial é mais precisa do que os médicos no diagnóstico de câncer de mama a partir de uma mamografia. É o que sugere uma pesquisa publicada na revista científica Nature.
+
+O estudo, conduzido por uma equipe internacional, incluindo pesquisadores do Google Health e da universidade Imperial College London, desenvolveu e treinou um modelo de computador com base em imagens de raios-X de mamas de quase 29 mil mulheres.
+
+O algoritmo em questão superou seis radiologistas na leitura das mamografias.
+
+E se mostrou tão eficiente quanto dois médicos trabalhando juntos.
+
+Na opinião de especialistas, a inteligência artificial pode ser uma ferramenta importante para melhorar o diagnóstico do câncer de mama.
+
+Quão mais eficiente?
+
+Atualmente, o sistema público de saúde britânico (NHS, na sigla em inglês) prevê que dois radiologistas analisem os raios-X de cada paciente. Em casos raros em que discordam do diagnóstico, um terceiro médico avalia as imagens.
+
+No estudo, um modelo de inteligência artificial recebeu imagens anônimas, para que as mulheres não pudessem ser identificadas.
+
+Diferentemente dos médicos, que tinham acesso ao histórico das pacientes, a inteligência artificial se baseou apenas nas mamografias.
+
+Os resultados mostraram que o modelo de inteligência artificial era tão eficiente quanto o atual sistema da leitura dupla dos exames feita pelos médicos.
+
+E se mostrou mais preciso no diagnóstico do que a análise de um único médico. Nestes casos, houve uma redução de 1,2% em falsos positivos — quando o exame aponta, erroneamente, a presença de câncer de mama; além de uma redução de 2,7% nos falsos negativos, quando o exame falha em identificar a existência da doença.
+
+"Nossa equipe está muito orgulhosa dos resultados da pesquisa, que sugerem que estamos no caminho de desenvolver uma ferramenta que pode ajudar os médicos a identificar o câncer de mama com maior precisão", afirmou Dominic King, do Google Health.
+
+A maioria das mamografias usadas no estudo faz parte do banco de dados da organização britânica Cancer Research UK, que foram coletados no St George's Hospital, em Londres, no Jarvis Breast Centre, em Guildford, e no Addenbrooke's Hospital, em Cambridge.
+
+Para se tornar um radiologista, capaz de interpretar mamografias, é necessário mais de uma década de estudo.
+
+A leitura de raios-X é um trabalho vital, mas demorado.
+
+Estima-se que haja hoje uma escassez de mais de mil radiologistas em todo o Reino Unido.
+A inteligência artificial vai substituir os médicos?
+
+Não. Foram necessários seres humanos para desenvolver e treinar o modelo de inteligência artificial.
+
+Além disso, é importante lembrar que trata-se de uma pesquisa inicial e, por enquanto, não há sistemas de inteligência artificial nos consultórios médicos.
+
+E quando esse momento chegar, a ideia é que pelo menos um radiologista permaneça encarregado do diagnóstico.
+
+Mas, de acordo com os pesquisadores, a inteligência artificial pode acabar sobretudo com a necessidade da dupla leitura de mamografias, aliviando o volume de trabalho dos médicos.
+
+"(O resultado) foi muito além das minhas expectativas. Vai ter um impacto significativo na melhoria da qualidade dos diagnósticos, e também vai liberar os radiologistas para fazerem coisas ainda mais importantes", afirmou à BBC Ara Darzi, coautor do estudo e diretor do Cancer Research UK Imperial Centre.
+
+No Reino Unido, todas as mulheres com idades entre 50 e 70 anos são convidadas pelo sistema público de saúde a cada três anos a fazer mamografia — as que são mais velhas podem solicitar o exame.
+
+O uso da inteligência artificial também ​​poderá acelerar o diagnóstico, uma vez que as imagens podem ser analisadas em segundos pelo algoritmo do computador.
+
+"Esta é uma pesquisa inicial promissora que sugere que no futuro poderá ser possível tornar os exames mais precisos e eficientes, o que significa menos espera e preocupação para os pacientes, e melhores resultados", disse à BBC Sara Hiom, 
+'No longo prazo, isso só pode beneficiar as mulheres', diz Helen Edwards, que teve câncer de mama aos 44 anos
+
+Helen Edwards, de Surrey, na Inglaterra, foi diagnosticada com câncer de mama aos 44 anos, antes de ser elegível para a mamografia.
+
+Ela precisou fazer cirurgia, quimioterapia e radioterapia, mas está livre da doença há mais de uma década.
+
+Ela foi uma das representantes das pacientes na comissão do Cancer Research UK que precisou decidir se deveria conceder ao Google Health permissão para usar as informações anônimas do banco de dados sobre câncer de mama.
+
+"Inicialmente, fiquei um pouco preocupada com o que o Google poderia fazer com os dados, mas não há nenhuma identificação", afirmou Helen à BBC.
+
+"No longo prazo, isso só pode beneficiar as mulheres."
+
+"As máquinas de inteligência artificial não ficam cansadas... elas podem trabalhar 24 horas por dia, 7 dias por semana, enquanto um ser humano não é capaz de fazer isso. Portanto, combinar as duas (inteligências) é uma ótima ideia."

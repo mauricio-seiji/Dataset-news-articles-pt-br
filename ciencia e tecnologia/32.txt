@@ -1,0 +1,19 @@
+Google usa IA para criar vídeos a partir de sites
+
+A Google desenvolveu uma ferramenta baseada em inteligência artificial (IA) capaz de converter uma página da web em vídeo, extraindo textos (incluindo as fontes), imagens, e mais cores e layouts via HTML e organizando tudo em sequência de planos, mantendo o estilo da página original. Os usuários escolhem tempo (até 12 segundos), formato e proporção dos vídeos.
+
+
+“As empresas geralmente hospedam sites que contêm representações visuais ricas, e tudo poderia ser reaproveitado para outros formatos de multimídia, como vídeos, permitindo que aquelas sem recursos atingissem um público mais amplo”, escreveram os pesquisadores Peggy Chi e Irfan Essa.
+
+A URL2Video cria as animações usando os elementos dominantes do site de origem e restringindo o tempo em que cada um deles vai aparecer. Então, ela transfere o layout com os elementos rearranjados no formato e proporção do vídeo escolhidos e aplica as opções de estilo (como cores e fontes). Depois, ajusta o tempo de apresentação do que ela extraiu da página e renderiza o resultado em um vídeo MPEG-4.
+
+
+A ferramenta foi ainda testada em páginas com animações.
+
+
+IA por conta própria
+Ao editar o vídeo, o sistema decide que conteúdo deve priorizar de acordo com sua importância na página – informações mais relevantes costumam vir no alto do site ou são escritas em cores chamativas e letras maiores. A URL2Video, baseada nisso, calcula quanto tempo cada elemento será mostrado, mantendo aqueles em destaque no site por tempo suficiente para ser lido ou visto.
+
+Por enquanto, a ferramenta foi testada apenas em  “páginas da web estáticas que contêm ativos e cabeçalhos salientes preservados em uma hierarquia HTML, seguindo princípios de design da web recentes, e que incentivam o uso de elementos proeminentes, seções distintas e uma ordem de foco visual que orienta os leitores na percepção das informações.”
+
+Segundo os pesquisadores, “embora esta pesquisa atual se concentre na apresentação visual, estamos desenvolvendo novas técnicas que suportam a trilha de áudio e uma narração na edição de vídeo.”

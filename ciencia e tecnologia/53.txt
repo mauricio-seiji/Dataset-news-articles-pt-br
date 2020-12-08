@@ -1,0 +1,16 @@
+Vídeos da missão Apollo 11 na Lua são restaurados por IA; veja
+
+Na última terça-feira (21), completou-se 51 anos que o ser humano pisou na Lua pela primeira vez, com a chegada da missão Apollo 11 ao satélite natural. Para comemorar a data, o canal do YouTube DutchSteamMachine restaurou as imagens originais daquele evento histórico, com o auxílio da inteligência artificial, trazendo uma grande melhoria de qualidade para as gravações da NASA.
+
+O youtuber holandês Steam Machine, especialista em restauração de fotos e filmes antigos, utilizou no trabalho uma ferramenta conhecida como Depth-Aware video frame INterpolation (DAIN). Este algoritmo de código aberto é capaz de tornar um vídeo mais fluido, corrigir a granulação da imagem, compensar a desfocagem e fazer diversas outras melhorias em arquivos gerados por câmeras antigas.
+
+Para tanto, a IA analisou as imagens originais, que têm entre 1 e 12 frames por segundo (fps), e preencheu o vídeo com outros frames gerados por ela própria. O resultado foi um novo vídeo, agora com 24 fps, bem mais nítido e que parece ter sido gravado com um equipamento mais moderno.
+
+Os vídeos do homem na Lua agora estão com uma qualidade melhor.
+
+Em entrevista ao Universe Today, o restaurador contou que o trabalho exige uma GPU poderosa e com sistema de ventilação especial para ser realizado, além de muita paciência, já que o processamento de cinco minutos de vídeo leva de 6 a 20 horas para ser concluído. Ele também restaurou imagens de outras missões da NASA, obtendo resultados ainda mais incríveis, com vídeos de até 60 fps.
+
+Assista aos vídeos restaurados
+Na madrugada do dia 21 de julho de 1969, o astronauta Neil Armstrong deu os primeiros passos do homem na Lua, feito que foi transmitido ao vivo pela TV, para o mundo inteiro.
+
+Agora, com a ajuda da tecnologia, é possível ver a gravação original com uma qualidade bem melhor. Confira, abaixo, alguns dos trabalhos feitos pelo canal DutchSteamMachine com os vídeos originais:

@@ -1,0 +1,21 @@
+Pesquisadores criam toalha de mesa que identifica objetos
+
+Equipamento usa inteligência artificial que consegue interpretar pequenas cargas elétricas e acertar qual é o item com até 98% de precisão
+
+Pesquisadores da Microsoft e do Darthmouth College, em New Hampshire, nos Estados Unidos, desenvolveram uma toalha de mesa que usa inteligência artificial para identificar objetos colocados sobre ela.
+
+Segundo os cientistas, a chave para o sistema ser capaz de reconhecer objetos é a sua "capacitância", isto é, a capacidade de coletar e armazenar energia na forma de uma carga elétrica. Por esse motivo, a toalha recebeu o nome de Capacitivo.
+
+Quando um objeto é colocado sobre o dispositivo, seus eletrodos conseguem  monitorar minúsculas cargas elétricas à medida que "viajam" pelo material.
+
+"A toalha usa o princípio básico de uma tela sensível ao toque que detecta seu dedo", afirmou o pesquisador da Microsoft Teddy Seyed ao portal Telegraph. "Cada objeto tem uma propriedade de capacitância diferente e com base nessa propriedade, podemos determinar qual objeto está no tecido."
+
+Para avaliar o desempenho da tecnologia, os especialistas realizaram testes em laboratórios utilizando 20 objetos diferentes, como abacate, kiwi e toranja, além de itens domésticos e de escritório, como um estojo Apple AirPods e um frasco de desinfetante para as mãos. Na média, a Capacitivo foi capaz de detectar objetos com 94,5% de precisão.
+
+De acordo com a equipe, apesar de um kiwi e um abacate não serem muito diferentes um do outro em termos de tamanho e forma, o sistema identificou as diferenças entre as frutas com um bom nível de precisão. As toranjas, por sua vez, foram identificadas com 98% de precisão.
+
+Por outro lado, um cartão de recompensa do varejista norte-americano JCPenney foi reconhecido com 85% de precisão, uma das menores taxas entre os objetos testados. Segundo os pesquisadores, nesse caso, nem a forma nem o material poderiam servir como um indicador confiável para o dispositivo reconhecer o objeto.
+
+Os testes concluíram ainda que a tecnologia é capaz de diferenciar cinco tipos diferentes de líquido – leite, refrigerante, cidra, água fria e água quente – com 96% de precisão, reconhecer corretamente uma tigela vazia contra uma cheia de sopas de mariscos em 100% dos casos e distinguir entre solo úmido e seco para uma planta de mesa com 99% de precisão.
+
+Apesar dos testes bem-sucedidos, a equipe estima que possa levar até dez anos para que um produto comercial esteja disponível.
