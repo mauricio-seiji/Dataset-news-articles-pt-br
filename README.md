@@ -69,3 +69,39 @@ for i, label in enumerate(raw_train_ds.class_names):
 ```
 
 More details read [Load dataset from text files](https://www.tensorflow.org/tutorials/load_data/text#load_the_dataset)
+
+### How to Use with Sklearn
+
+Sklearn support a library to import the dataset from disk.
+
+The `load_files` function automatically divides the dataset into data and target sets.
+
+```
+from sklearn.datasets import load_files
+
+dataset_dir = "Dataset-news-articles-pt-br-main/"
+
+dataset = load_files(dataset_dir)
+
+X, y = dataset.data, dataset.target
+```
+#### Import dataset to pandas Dataframe
+
+Pandas library provide a set of tools to data analysis and manipulation data.
+
+The code below import the sklearn dataset to pandas DataFrame.
+
+```
+import pandas as pd
+import numpy as np
+
+df = pd.DataFrame(data = np.c_[dataset['data'], dataset['target']], 
+                  columns=["text", "target"])
+
+df.target = df.target.astype('int64')
+df.text = df.text.str.decode("utf-8")
+
+df.head()
+```
+
+More details read [Using Sklearn to load local files](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_files.html)
