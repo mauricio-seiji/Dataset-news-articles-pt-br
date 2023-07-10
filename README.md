@@ -8,6 +8,8 @@ This dataset contains 500 news articles in brazilian Portuguese divide into 5 ty
  - sports
  - politics
 
+**``__summarization__``** folder contains the list of articles summarized by the ChatGPT.
+
 ### How to Download and Use Project Dataset
 
 Download as a zip file
